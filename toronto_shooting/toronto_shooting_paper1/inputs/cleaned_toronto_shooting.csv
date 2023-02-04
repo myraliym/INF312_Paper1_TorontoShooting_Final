@@ -1,0 +1,1487 @@
+year,time,death,injuries,neighbourhood,geometry,injury_level
+2012,Night,1,0,Clairlea-Birchmount (120),"c(-79.28272435, 43.72794544)",death
+2012,Night,0,1,Clairlea-Birchmount (120),"c(-79.29142356, 43.72699591)",injuries
+2012,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.29342081, 43.7821167)",injuries
+2012,Evening,0,1,Church-Yonge Corridor (75),"c(-79.37827718, 43.65626242)",injuries
+2012,Night,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2012,Night,0,1,Weston-Pellam Park (91),"c(-79.45997962, 43.67419535)",injuries
+2012,Evening,0,3,West Humber-Clairville (1),"c(-79.56497836, 43.69773424)",injuries
+2012,Evening,0,1,Kennedy Park (124),"c(-79.26066651, 43.73366576)",injuries
+2012,Evening,0,2,Willowridge-Martingrove-Richview (7),"c(-79.55757503, 43.69207108)",injuries
+2012,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",injuries
+2012,Night,0,1,Waterfront Communities-The Island (77),"c(-79.37680124, 43.64115206)",injuries
+2012,Night,1,0,Clairlea-Birchmount (120),"c(-79.29142356, 43.72699591)",death
+2012,Afternoon,1,0,Malvern (132),"c(-79.22088214, 43.80557764)",death
+2012,Evening,1,0,Dufferin Grove (83),"c(-79.43726099, 43.65427761)",death
+2012,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58378073, 43.73241483)",injuries
+2012,Night,0,1,East End-Danforth (62),"c(-79.30972846, 43.68127147)",injuries
+2012,Evening,0,1,Keelesdale-Eglinton West (110),"c(-79.47229013, 43.68975371)",injuries
+2012,Afternoon,0,1,Don Valley Village (47),"c(-79.35803271, 43.79196201)",injuries
+2012,Afternoon,0,1,York University Heights (27),"c(-79.49996302, 43.7610636)",injuries
+2012,Afternoon,0,1,Elms-Old Rexdale (5),"c(-79.54932451, 43.72729069)",injuries
+2012,Afternoon,0,1,Woburn (137),"c(-79.21389338, 43.76225368)",injuries
+2012,Evening,0,1,NSA,"c(0, 0)",injuries
+2012,Afternoon,0,1,Elms-Old Rexdale (5),"c(-79.54932451, 43.72729069)",injuries
+2012,Afternoon,2,0,Lansing-Westgate (38),"c(-79.42538364, 43.75746765)",death
+2012,Evening,0,1,Annex (95),"c(-79.40708312, 43.67485713)",injuries
+2012,Evening,0,1,Islington-City Centre West (14),"c(-79.56023729, 43.60941968)",injuries
+2012,Night,0,1,Humbermede (22),"c(-79.53073441, 43.74792305)",injuries
+2012,Night,0,1,Weston-Pellam Park (91),"c(-79.45797855, 43.66874022)",injuries
+2012,Evening,0,1,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",injuries
+2012,Afternoon,0,1,Weston-Pellam Park (91),"c(-79.45600383, 43.66809286)",injuries
+2012,Night,0,1,South Riverdale (70),"c(-79.35058013, 43.64309128)",injuries
+2012,Afternoon,0,1,Agincourt South-Malvern West (128),"c(-79.28143095, 43.77814866)",injuries
+2012,Evening,1,0,Rockcliffe-Smythe (111),"c(-79.48759009, 43.6727608)",death
+2012,Morning,0,1,York University Heights (27),"c(-79.48475551, 43.7610101)",injuries
+2012,Afternoon,0,1,Rockcliffe-Smythe (111),"c(-79.49685045, 43.66787712)",injuries
+2012,Evening,0,1,West Humber-Clairville (1),"c(-79.59278328, 43.73908012)",injuries
+2012,Morning,0,1,High Park-Swansea (87),"c(-79.48659988, 43.64793625)",injuries
+2012,Evening,1,0,Englemount-Lawrence (32),"c(-79.44182392, 43.72260982)",death
+2012,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58755582, 43.73688887)",injuries
+2012,Evening,0,1,Malvern (132),"c(-79.21192539, 43.80333396)",injuries
+2012,Night,1,0,Yonge-Eglinton (100),"c(-79.40328115, 43.69792797)",death
+2012,Afternoon,1,0,Lambton Baby Point (114),"c(-79.50146561, 43.66488611)",death
+2012,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2012,Evening,0,1,Stonegate-Queensway (16),"c(-79.51278747, 43.62942651)",injuries
+2012,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58527088, 43.73226071)",injuries
+2012,Evening,1,0,Centennial Scarborough (133),"c(-79.15522453, 43.78649029)",death
+2012,Night,0,1,Wexford/Maryvale (119),"c(-79.302767, 43.76720693)",injuries
+2012,Evening,2,1,Bay Street Corridor (76),"c(-79.37993395, 43.65406269)",both
+2012,Night,0,2,Agincourt South-Malvern West (128),"c(-79.25977154, 43.79206024)",injuries
+2012,Night,0,1,Brookhaven-Amesbury (30),"c(-79.49383462, 43.69693876)",injuries
+2012,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.5270397, 43.71679868)",injuries
+2012,Evening,0,1,L'Amoreaux (117),"c(-79.33041383, 43.79680449)",injuries
+2012,Night,0,1,West Humber-Clairville (1),"c(-79.60667875, 43.73372347)",injuries
+2012,Afternoon,1,1,Trinity-Bellwoods (81),"c(-79.41828872, 43.65524586)",both
+2012,Afternoon,1,0,Dorset Park (126),"c(-79.2822164, 43.76942091)",death
+2012,Night,0,2,Parkwoods-Donalda (45),"c(-79.33022733, 43.75697733)",injuries
+2012,Night,0,1,Annex (95),"c(-79.40198145, 43.66838899)",injuries
+2012,Evening,1,0,Willowdale East (51),"c(-79.40653241, 43.75650092)",death
+2012,Night,0,3,Caledonia-Fairbank (109),"c(-79.44678153, 43.68727175)",injuries
+2012,Night,0,1,West Hill (136),"c(-79.17008043, 43.76717326)",injuries
+2012,Evening,0,1,York University Heights (27),"c(-79.49415309, 43.75044175)",injuries
+2012,Evening,0,1,South Riverdale (70),"c(-79.30861848, 43.66364122)",injuries
+2012,Night,0,1,York University Heights (27),"c(-79.48475551, 43.7610101)",injuries
+2012,Night,0,1,Glenfield-Jane Heights (25),"c(-79.51644975, 43.75250954)",injuries
+2012,Evening,0,1,Blake-Jones (69),"c(-79.33814773, 43.6724497)",injuries
+2012,Night,1,0,Islington-City Centre West (14),"c(-79.55831365, 43.6490683)",death
+2012,Night,0,1,West Humber-Clairville (1),"c(-79.58726582, 43.68951723)",injuries
+2012,Night,2,24,West Hill (136),"c(-79.18956913, 43.76765091)",both
+2012,Evening,1,0,Rockcliffe-Smythe (111),"c(-79.50418014, 43.68438299)",death
+2012,Night,1,0,Englemount-Lawrence (32),"c(-79.44386942, 43.71948624)",death
+2013,Evening,0,1,Little Portugal (84),"c(-79.43365029, 43.64977259)",injuries
+2015,Morning,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",death
+2015,Afternoon,0,1,Humbermede (22),"c(-79.54209151, 43.7508487)",injuries
+2015,Night,0,1,Dorset Park (126),"c(-79.2822164, 43.76942091)",injuries
+2015,Afternoon,0,1,West Hill (136),"c(-79.18356988, 43.76190969)",injuries
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51656635, 43.74606336)",injuries
+2015,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51644975, 43.75250954)",injuries
+2015,Evening,0,1,Woodbine Corridor (64),"c(-79.31818151, 43.68452305)",injuries
+2015,Night,0,1,Parkwoods-Donalda (45),"c(-79.31520451, 43.75786873)",injuries
+2015,Evening,0,1,Henry Farm (53),"c(-79.34116618, 43.77318589)",injuries
+2015,Night,0,1,Trinity-Bellwoods (81),"c(-79.42023359, 43.65491084)",injuries
+2015,Night,0,1,Oakridge (121),"c(-79.27648861, 43.70129619)",injuries
+2015,Night,2,2,Niagara (82),"c(-79.42488998, 43.63268619)",both
+2015,Night,0,1,Trinity-Bellwoods (81),"c(-79.41899177, 43.65515706)",injuries
+2015,Night,1,0,Bay Street Corridor (76),"c(-79.38316368, 43.65431877)",death
+2015,Evening,0,2,Niagara (82),"c(-79.39916285, 43.63523601)",injuries
+2015,Afternoon,1,0,Rustic (28),"c(-79.50407537, 43.71413802)",death
+2016,Evening,0,1,Wexford/Maryvale (119),"c(-79.2876062, 43.73787402)",injuries
+2015,Night,1,0,Moss Park (73),"c(-79.36947164, 43.65865872)",death
+2015,Evening,0,2,Brookhaven-Amesbury (30),"c(-79.47870373, 43.70171856)",injuries
+2015,Afternoon,0,1,Bay Street Corridor (76),"c(-79.38154682, 43.65790792)",injuries
+2015,Night,0,1,Malvern (132),"c(-79.22413428, 43.80395767)",injuries
+2015,Night,0,2,Malvern (132),"c(-79.19972992, 43.80197257)",injuries
+2015,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.31617894, 43.7768648)",injuries
+2015,Night,0,1,Downsview-Roding-CFB (26),"c(-79.51038627, 43.72477325)",injuries
+2015,Afternoon,0,2,Waterfront Communities-The Island (77),"c(-79.38632963, 43.64800878)",injuries
+2015,Night,0,3,Humber Heights-Westmount (8),"c(-79.5173064, 43.69461525)",injuries
+2015,Night,1,0,Highland Creek (134),"c(-79.15455554, 43.79357722)",death
+2015,Afternoon,0,1,Church-Yonge Corridor (75),"c(-79.37437294, 43.64992152)",injuries
+2015,Night,0,1,Humber Heights-Westmount (8),"c(-79.52593094, 43.70050771)",injuries
+2015,Afternoon,1,1,West Humber-Clairville (1),"c(-79.59552737, 43.68675813)",both
+2015,Afternoon,0,1,Greenwood-Coxwell (65),"c(-79.32123467, 43.66808585)",injuries
+2015,Night,0,1,Etobicoke West Mall (13),"c(-79.57241116, 43.65116281)",injuries
+2015,Night,0,1,Stonegate-Queensway (16),"c(-79.4995122, 43.62702619)",injuries
+2015,Morning,1,0,Bay Street Corridor (76),"c(-79.38581622, 43.66799576)",death
+2015,Evening,1,0,Thorncliffe Park (55),"c(-79.35542239, 43.71552389)",death
+2015,Night,0,1,Rockcliffe-Smythe (111),"c(-79.48210041, 43.68063272)",injuries
+2015,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2015,Morning,0,1,Woburn (137),"c(-79.23198064, 43.75931509)",injuries
+2015,Evening,1,0,West Humber-Clairville (1),"c(-79.60405697, 43.73184462)",death
+2015,Evening,0,1,Regent Park (72),"c(-79.36600501, 43.66217007)",injuries
+2012,Evening,0,2,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",injuries
+2013,Evening,0,1,Thorncliffe Park (55),"c(-79.34983684, 43.70500656)",injuries
+2012,Evening,1,0,Black Creek (24),"c(-79.51472666, 43.76721178)",death
+2013,Afternoon,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58986714, 43.73881001)",injuries
+2012,Night,0,1,Dorset Park (126),"c(-79.27941653, 43.76129774)",injuries
+2013,Morning,0,1,Lansing-Westgate (38),"c(-79.42538364, 43.75746765)",injuries
+2016,Evening,1,0,Humber Heights-Westmount (8),"c(-79.51745424, 43.69262736)",death
+2012,Night,0,1,Don Valley Village (47),"c(-79.3540479, 43.77994438)",injuries
+2016,Evening,1,0,Junction Area (90),"c(-79.46502019, 43.66381122)",death
+2014,Evening,0,2,York University Heights (27),"c(-79.50240222, 43.77447286)",injuries
+2012,Night,0,2,Bay Street Corridor (76),"c(-79.38625132, 43.6500866)",injuries
+2013,Night,0,1,Yorkdale-Glen Park (31),"c(-79.45761282, 43.72699621)",injuries
+2013,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51703417, 43.75485496)",injuries
+2013,Night,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.59049707, 43.74602288)",injuries
+2013,Night,0,2,Downsview-Roding-CFB (26),"c(-79.51318036, 43.73938991)",injuries
+2013,Night,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2013,Night,0,1,NSA,"c(0, 0)",injuries
+2013,Afternoon,2,0,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",death
+2013,Night,0,2,High Park-Swansea (87),"c(-79.46987589, 43.63721096)",injuries
+2013,Evening,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.49225729, 43.61408185)",injuries
+2013,Night,1,0,Weston (113),"c(-79.52828124, 43.70454767)",death
+2013,Night,0,1,Scarborough Village (139),"c(-79.21887335, 43.74318039)",injuries
+2013,Afternoon,0,1,South Riverdale (70),"c(-79.33656862, 43.67155632)",injuries
+2013,Evening,0,1,West Humber-Clairville (1),"c(-79.59350023, 43.73377335)",injuries
+2013,Night,0,1,Englemount-Lawrence (32),"c(-79.44357638, 43.72283271)",injuries
+2013,Night,1,0,Willowridge-Martingrove-Richview (7),"c(-79.57037025, 43.67633938)",death
+2013,Night,0,5,Annex (95),"c(-79.39109808, 43.67344038)",injuries
+2013,Afternoon,1,0,Moss Park (73),"c(-79.36691319, 43.65649967)",death
+2013,Night,0,1,Milliken (130),"c(-79.25883195, 43.81759423)",injuries
+2013,Night,0,1,Yonge-St.Clair (97),"c(-79.39373784, 43.68094902)",injuries
+2013,Night,0,1,NSA,"c(0, 0)",injuries
+2013,Evening,0,1,O'Connor-Parkview (54),"c(-79.30477138, 43.71685064)",injuries
+2013,Afternoon,0,1,Thorncliffe Park (55),"c(-79.34358503, 43.70747328)",injuries
+2013,Night,0,1,Bay Street Corridor (76),"c(-79.38492429, 43.65121654)",injuries
+2013,Evening,0,1,Cabbagetown-South St.James Town (71),"c(-79.37216821, 43.66763473)",injuries
+2013,Night,0,1,Downsview-Roding-CFB (26),"c(-79.46385609, 43.72975208)",injuries
+2013,Evening,0,2,West Hill (136),"c(-79.17172072, 43.77164932)",injuries
+2013,Evening,0,1,West Hill (136),"c(-79.1937338, 43.76306435)",injuries
+2013,Night,0,1,Victoria Village (43),"c(-79.30446715, 43.72919088)",injuries
+2013,Afternoon,0,4,Oakwood Village (107),"c(-79.44303897, 43.68990208)",injuries
+2013,Night,1,0,The Beaches (63),"c(-79.29798392, 43.67888482)",death
+2013,Evening,0,3,Glenfield-Jane Heights (25),"c(-79.51925476, 43.73940913)",injuries
+2013,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58578825, 43.75097753)",death
+2013,Evening,0,2,York University Heights (27),"c(-79.49219989, 43.74459903)",injuries
+2013,Afternoon,0,1,High Park-Swansea (87),"c(-79.47100511, 43.63695828)",injuries
+2013,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.38143561, 43.64291214)",injuries
+2013,Night,0,1,West Hill (136),"c(-79.18682531, 43.77061047)",injuries
+2013,Night,0,1,High Park-Swansea (87),"c(-79.45127101, 43.63933996)",injuries
+2013,Evening,0,1,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",injuries
+2013,Afternoon,0,1,Humber Summit (21),"c(-79.56981396, 43.75725458)",injuries
+2013,Evening,0,1,Birchcliffe-Cliffside (122),"c(-79.25040586, 43.71351656)",injuries
+2013,Afternoon,0,1,Yorkdale-Glen Park (31),"c(-79.45046841, 43.72066198)",injuries
+2013,Night,0,1,NSA,"c(0, 0)",injuries
+2013,Afternoon,0,1,Weston (113),"c(-79.5043662, 43.70516046)",injuries
+2013,Afternoon,0,1,Highland Creek (134),"c(-79.16499765, 43.7960056)",injuries
+2013,Evening,0,1,Milliken (130),"c(-79.28819914, 43.80624828)",injuries
+2013,Afternoon,0,1,High Park-Swansea (87),"c(-79.46525867, 43.65353843)",injuries
+2013,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2014,Afternoon,0,1,Waterfront Communities-The Island (77),"c(-79.40196209, 43.64761228)",injuries
+2014,Night,0,1,Hillcrest Village (48),"c(-79.3418128, 43.80341174)",injuries
+2014,Evening,0,3,Rustic (28),"c(-79.50051289, 43.71126878)",injuries
+2014,Afternoon,0,1,L'Amoreaux (117),"c(-79.33308972, 43.79817569)",injuries
+2014,Night,0,1,Victoria Village (43),"c(-79.30738708, 43.73627083)",injuries
+2014,Night,0,1,Wexford/Maryvale (119),"c(-79.30051382, 43.74409914)",injuries
+2014,Night,1,0,Humber Heights-Westmount (8),"c(-79.5173064, 43.69461525)",death
+2014,Morning,0,2,Eglinton East (138),"c(-79.24612364, 43.73709631)",injuries
+2014,Morning,0,2,Waterfront Communities-The Island (77),"c(-79.39281928, 43.64732006)",injuries
+2014,Night,1,0,Lawrence Park North (105),"c(-79.40435542, 43.73366557)",death
+2014,Evening,1,0,Alderwood (20),"c(-79.55295951, 43.60886852)",death
+2013,Evening,0,1,East End-Danforth (62),"c(-79.3017916, 43.68814492)",injuries
+2014,Afternoon,1,0,Flemingdon Park (44),"c(-79.33633149, 43.71838158)",death
+2016,Afternoon,0,2,Islington-City Centre West (14),"c(-79.54059067, 43.6406425)",injuries
+2013,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",injuries
+2012,Night,0,1,Weston (113),"c(-79.51208583, 43.70109301)",injuries
+2016,Evening,1,0,Humbermede (22),"c(-79.54029776, 43.7427267)",death
+2013,Evening,1,0,Moss Park (73),"c(-79.37212433, 43.6633875)",death
+2016,Evening,0,1,Blake-Jones (69),"c(-79.33776478, 43.67434395)",injuries
+2014,Evening,2,0,East End-Danforth (62),"c(-79.30917735, 43.68567653)",death
+2016,Night,0,1,Rexdale-Kipling (4),"c(-79.56787478, 43.72784826)",injuries
+2016,Afternoon,1,0,Mount Pleasant West (104),"c(-79.39676102, 43.70456998)",death
+2012,Afternoon,0,1,Dorset Park (126),"c(-79.27092002, 43.75031856)",injuries
+2016,Night,0,1,Moss Park (73),"c(-79.36597615, 43.65944077)",injuries
+2016,Morning,0,1,Rosedale-Moore Park (98),"c(-79.3830356, 43.68941349)",injuries
+2016,Evening,0,1,Bendale (127),"c(-79.25417421, 43.77664804)",injuries
+2016,Night,0,1,Mount Dennis (115),"c(-79.49417643, 43.68865846)",injuries
+2016,Night,0,2,Woburn (137),"c(-79.21579746, 43.76185035)",injuries
+2016,Evening,0,1,Regent Park (72),"c(-79.36198608, 43.65760269)",injuries
+2016,Evening,0,2,Weston-Pellam Park (91),"c(-79.45797855, 43.66874022)",injuries
+2016,Night,2,2,Kensington-Chinatown (78),"c(-79.40403712, 43.6572083)",both
+2016,Night,0,1,North Riverdale (68),"c(-79.34844294, 43.67823713)",injuries
+2016,Night,0,1,Rouge (131),"c(-79.19674863, 43.79976916)",injuries
+2016,Evening,0,1,Rustic (28),"c(-79.50026728, 43.70838437)",injuries
+2016,Afternoon,1,1,Downsview-Roding-CFB (26),"c(-79.52009393, 43.73780743)",both
+2016,Afternoon,0,2,Humber Summit (21),"c(-79.5649087, 43.75290509)",injuries
+2016,Night,0,2,South Parkdale (85),"c(-79.42881933, 43.63865271)",injuries
+2016,Night,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44300606, 43.65922277)",injuries
+2016,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.57827059, 43.7355062)",injuries
+2016,Night,0,1,High Park-Swansea (87),"c(-79.45103028, 43.65151643)",injuries
+2016,Night,0,1,Willowdale West (37),"c(-79.41379117, 43.77297776)",injuries
+2016,Evening,1,0,Bendale (127),"c(-79.25803501, 43.75297334)",death
+2016,Night,0,1,Eglinton East (138),"c(-79.258734, 43.73604347)",injuries
+2016,Evening,0,1,Islington-City Centre West (14),"c(-79.52880898, 43.6263041)",injuries
+2016,Morning,0,2,Palmerston-Little Italy (80),"c(-79.42087545, 43.66302552)",injuries
+2016,Night,0,2,Bay Street Corridor (76),"c(-79.38063454, 43.65577409)",injuries
+2016,Afternoon,0,1,Oakridge (121),"c(-79.28071744, 43.69467688)",injuries
+2016,Night,0,1,Trinity-Bellwoods (81),"c(-79.40768329, 43.65648148)",injuries
+2016,Night,0,1,Victoria Village (43),"c(-79.31923844, 43.74118237)",injuries
+2016,Evening,0,1,Malvern (132),"c(-79.21250552, 43.81208221)",injuries
+2016,Night,0,1,Humber Heights-Westmount (8),"c(-79.51745424, 43.69262736)",injuries
+2016,Night,0,2,Oakwood Village (107),"c(-79.44275361, 43.69730275)",injuries
+2016,Evening,0,1,Brookhaven-Amesbury (30),"c(-79.49012495, 43.69643015)",injuries
+2016,Night,0,1,Regent Park (72),"c(-79.36445984, 43.65976202)",injuries
+2016,Evening,0,1,Rustic (28),"c(-79.50026728, 43.70838437)",injuries
+2016,Night,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2016,Evening,0,1,Dorset Park (126),"c(-79.27283135, 43.76533539)",injuries
+2014,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.46445853, 43.73115929)",injuries
+2014,Evening,1,0,Weston-Pellam Park (91),"c(-79.45233131, 43.6684862)",death
+2012,Night,0,1,Oakwood Village (107),"c(-79.44080538, 43.69265471)",injuries
+2013,Night,1,1,NSA,"c(0, 0)",both
+2014,Night,0,1,Banbury-Don Mills (42),"c(-79.33883364, 43.72050084)",injuries
+2016,Evening,0,1,Wexford/Maryvale (119),"c(-79.28517224, 43.74848194)",injuries
+2016,Night,0,1,Thorncliffe Park (55),"c(-79.34658826, 43.70321193)",injuries
+2016,Evening,0,1,Weston (113),"c(-79.51127669, 43.69834448)",injuries
+2016,Evening,1,0,L'Amoreaux (117),"c(-79.30239461, 43.79721854)",death
+2016,Night,0,1,Newtonbrook East (50),"c(-79.39418535, 43.79512541)",injuries
+2016,Evening,1,0,South Riverdale (70),"c(-79.34055684, 43.66228154)",death
+2016,Night,0,1,Roncesvalles (86),"c(-79.43532226, 43.64420447)",injuries
+2016,Night,0,1,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2016,Night,1,0,Moss Park (73),"c(-79.36442266, 43.65561541)",death
+2016,Morning,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2016,Night,0,1,Glenfield-Jane Heights (25),"c(-79.51603747, 43.75073765)",injuries
+2016,Night,0,1,Kingsview Village-The Westway (6),"c(-79.5577793, 43.6974069)",injuries
+2016,Evening,1,0,Bay Street Corridor (76),"c(-79.38674812, 43.67022634)",death
+2016,Night,1,0,Mimico (includes Humber Bay Shores) (17),"c(-79.49671284, 43.61223676)",death
+2016,Night,1,0,Greenwood-Coxwell (65),"c(-79.32472818, 43.68311648)",death
+2016,Night,0,1,Dorset Park (126),"c(-79.28103716, 43.76580146)",injuries
+2016,Evening,0,1,Rexdale-Kipling (4),"c(-79.55971793, 43.72488239)",injuries
+2016,Afternoon,0,1,Islington-City Centre West (14),"c(-79.53698852, 43.61869102)",injuries
+2016,Morning,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2016,Afternoon,0,1,Caledonia-Fairbank (109),"c(-79.44826579, 43.6909555)",injuries
+2016,Night,0,1,Trinity-Bellwoods (81),"c(-79.41087977, 43.65130826)",injuries
+2016,Evening,2,0,Wexford/Maryvale (119),"c(-79.31288749, 43.75841403)",death
+2016,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58705975, 43.74849038)",injuries
+2016,Morning,0,1,Annex (95),"c(-79.41174945, 43.66662023)",injuries
+2016,Evening,0,1,West Humber-Clairville (1),"c(-79.59451745, 43.72787024)",injuries
+2016,Evening,0,1,Rexdale-Kipling (4),"c(-79.55858676, 43.71796998)",injuries
+2016,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51134996, 43.75013528)",injuries
+2016,Night,0,1,Banbury-Don Mills (42),"c(-79.34436493, 43.73428467)",injuries
+2016,Evening,2,0,West Humber-Clairville (1),"c(-79.58938369, 43.73202412)",death
+2016,Night,0,1,Waterfront Communities-The Island (77),"c(-79.3610029, 43.64773904)",injuries
+2016,Evening,0,2,North St.James Town (74),"c(-79.37640913, 43.67127239)",injuries
+2016,Evening,0,1,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2016,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.59008355, 43.73745121)",injuries
+2013,Afternoon,0,2,Bendale (127),"c(-79.2551374, 43.74355187)",injuries
+2014,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.37146354, 43.64763677)",injuries
+2013,Evening,1,1,Yorkdale-Glen Park (31),"c(-79.45686309, 43.72385422)",both
+2014,Night,1,1,Cabbagetown-South St.James Town (71),"c(-79.36801682, 43.66446336)",both
+2013,Morning,0,1,South Riverdale (70),"c(-79.35317174, 43.66003978)",injuries
+2012,Afternoon,0,1,L'Amoreaux (117),"c(-79.33041383, 43.79680449)",injuries
+2013,Evening,0,1,Bendale (127),"c(-79.24693933, 43.75377665)",injuries
+2014,Morning,0,1,O'Connor-Parkview (54),"c(-79.2972507, 43.70221963)",injuries
+2013,Evening,0,1,Englemount-Lawrence (32),"c(-79.43997894, 43.72153768)",injuries
+2012,Evening,1,0,The Beaches (63),"c(-79.29798392, 43.67888482)",death
+2012,Night,1,0,Malvern (132),"c(-79.20611667, 43.80925039)",death
+2014,Evening,1,0,Rouge (131),"c(-79.21297793, 43.81909218)",death
+2012,Afternoon,0,1,Downsview-Roding-CFB (26),"c(-79.51483243, 43.72233796)",injuries
+2013,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2014,Evening,0,1,Greenwood-Coxwell (65),"c(-79.3212843, 43.67486395)",injuries
+2013,Evening,0,1,Elms-Old Rexdale (5),"c(-79.54932451, 43.72729069)",injuries
+2014,Evening,1,0,Briar Hill-Belgravia (108),"c(-79.4472933, 43.69635948)",death
+2012,Night,1,0,Glenfield-Jane Heights (25),"c(-79.52424633, 43.75592926)",death
+2012,Night,2,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.5825711, 43.73397143)",death
+2012,Morning,0,1,Rustic (28),"c(-79.49750516, 43.70927393)",injuries
+2013,Evening,0,1,Greenwood-Coxwell (65),"c(-79.32616543, 43.68281145)",injuries
+2012,Evening,0,1,South Parkdale (85),"c(-79.4346862, 43.63746024)",injuries
+2013,Night,0,1,Kensington-Chinatown (78),"c(-79.39892576, 43.64975761)",injuries
+2013,Night,0,2,Rockcliffe-Smythe (111),"c(-79.48835904, 43.66788618)",injuries
+2013,Evening,1,1,Malvern (132),"c(-79.2150335, 43.81876618)",both
+2013,Afternoon,0,1,NSA,"c(0, 0)",injuries
+2013,Afternoon,0,1,York University Heights (27),"c(-79.49363935, 43.76527191)",injuries
+2013,Evening,0,1,Keelesdale-Eglinton West (110),"c(-79.46267655, 43.6850919)",injuries
+2013,Evening,0,1,Woodbine-Lumsden (60),"c(-79.3162282, 43.69822334)",injuries
+2013,Night,0,1,Yorkdale-Glen Park (31),"c(-79.45686309, 43.72385422)",injuries
+2013,Afternoon,0,1,L'Amoreaux (117),"c(-79.3316921, 43.7985166)",injuries
+2013,Evening,1,0,Trinity-Bellwoods (81),"c(-79.42134356, 43.65095771)",death
+2013,Evening,0,1,The Beaches (63),"c(-79.30546668, 43.66809787)",injuries
+2013,Night,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2013,Night,0,1,Guildwood (140),"c(-79.19920147, 43.74750492)",injuries
+2013,Afternoon,1,0,Rouge (131),"c(-79.21984219, 43.82190724)",death
+2013,Evening,0,1,South Parkdale (85),"c(-79.4346862, 43.63746024)",injuries
+2013,Evening,0,1,York University Heights (27),"c(-79.5012863, 43.76481413)",injuries
+2013,Night,1,0,Willowdale East (51),"c(-79.41076788, 43.76972877)",death
+2013,Afternoon,0,1,Greenwood-Coxwell (65),"c(-79.33130898, 43.68170912)",injuries
+2013,Evening,0,1,Bendale (127),"c(-79.26241897, 43.75206441)",injuries
+2013,Evening,0,1,Malvern (132),"c(-79.2322683, 43.80946953)",injuries
+2013,Afternoon,0,1,NSA,"c(0, 0)",injuries
+2013,Night,0,1,Regent Park (72),"c(-79.36373859, 43.65789796)",injuries
+2013,Afternoon,0,1,Parkwoods-Donalda (45),"c(-79.31298379, 43.75149761)",injuries
+2013,Night,0,1,Weston (113),"c(-79.50234051, 43.69759511)",injuries
+2013,Evening,0,1,Moss Park (73),"c(-79.36755676, 43.65636789)",injuries
+2013,Night,0,1,East End-Danforth (62),"c(-79.29375531, 43.68996433)",injuries
+2013,Morning,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.49184703, 43.62170605)",injuries
+2013,Evening,1,0,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",death
+2013,Evening,0,1,Elms-Old Rexdale (5),"c(-79.54750349, 43.72255228)",injuries
+2013,Night,0,1,Scarborough Village (139),"c(-79.21887335, 43.74318039)",injuries
+2013,Night,0,1,Wexford/Maryvale (119),"c(-79.3004441, 43.72794175)",injuries
+2013,Evening,0,1,Weston-Pellam Park (91),"c(-79.45797855, 43.66874022)",injuries
+2013,Night,0,1,Regent Park (72),"c(-79.36350594, 43.66137399)",injuries
+2013,Afternoon,1,0,High Park-Swansea (87),"c(-79.47101519, 43.63826102)",death
+2013,Evening,0,1,Henry Farm (53),"c(-79.34881417, 43.77364626)",injuries
+2013,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39760717, 43.64495335)",injuries
+2013,Afternoon,1,0,Elms-Old Rexdale (5),"c(-79.54567603, 43.72127341)",death
+2012,Evening,1,0,Black Creek (24),"c(-79.51542321, 43.75786892)",death
+2012,Afternoon,0,1,Malvern (132),"c(-79.21976642, 43.7954076)",injuries
+2012,Night,0,1,O'Connor-Parkview (54),"c(-79.30891403, 43.71052522)",injuries
+2012,Evening,0,1,Blake-Jones (69),"c(-79.33814773, 43.6724497)",injuries
+2012,Night,0,1,NSA,"c(0, 0)",injuries
+2012,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51769107, 43.75723544)",injuries
+2012,Evening,0,1,Brookhaven-Amesbury (30),"c(-79.49898255, 43.69733295)",injuries
+2014,Evening,1,3,Greenwood-Coxwell (65),"c(-79.32720741, 43.67453551)",both
+2012,Night,0,1,Elms-Old Rexdale (5),"c(-79.5505259, 43.72509835)",injuries
+2012,Night,0,1,Oakridge (121),"c(-79.27695418, 43.70239572)",injuries
+2014,Morning,0,3,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2012,Evening,0,1,Rockcliffe-Smythe (111),"c(-79.47671287, 43.68160961)",injuries
+2014,Evening,0,2,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2012,Afternoon,1,0,Morningside (135),"c(-79.21351783, 43.78588681)",death
+2012,Night,1,0,Yorkdale-Glen Park (31),"c(-79.44932805, 43.72085817)",death
+2012,Evening,0,2,Rustic (28),"c(-79.50227042, 43.71654549)",injuries
+2012,Afternoon,1,0,Mount Dennis (115),"c(-79.49310368, 43.68830601)",death
+2014,Evening,0,1,Steeles (116),"c(-79.3140395, 43.80971368)",injuries
+2012,Morning,0,1,Westminster-Branson (35),"c(-79.45090456, 43.77231285)",injuries
+2012,Evening,0,1,Humbermede (22),"c(-79.54234005, 43.752091)",injuries
+2012,Afternoon,0,1,O'Connor-Parkview (54),"c(-79.29638251, 43.70438805)",injuries
+2012,Afternoon,0,1,O'Connor-Parkview (54),"c(-79.29638251, 43.70438805)",injuries
+2012,Night,1,0,Kensington-Chinatown (78),"c(-79.40648042, 43.65672138)",death
+2012,Night,1,0,Markland Wood (12),"c(-79.58272088, 43.63326753)",death
+2012,Evening,1,0,Downsview-Roding-CFB (26),"c(-79.48368863, 43.73358135)",death
+2013,Night,0,2,Waterfront Communities-The Island (77),"c(-79.36777622, 43.6443443)",injuries
+2013,Evening,0,1,Mount Dennis (115),"c(-79.50461733, 43.68883171)",injuries
+2013,Night,0,1,West Humber-Clairville (1),"c(-79.60224456, 43.72270778)",injuries
+2013,Night,0,1,Stonegate-Queensway (16),"c(-79.50028281, 43.62685066)",injuries
+2013,Evening,0,1,NSA,"c(0, 0)",injuries
+2013,Afternoon,1,0,Regent Park (72),"c(-79.35903709, 43.66034198)",death
+2013,Night,0,1,Downsview-Roding-CFB (26),"c(-79.50793329, 43.7184039)",injuries
+2013,Evening,0,1,Greenwood-Coxwell (65),"c(-79.32787432, 43.67862763)",injuries
+2013,Evening,0,1,West Humber-Clairville (1),"c(-79.55682653, 43.7140103)",injuries
+2013,Morning,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2013,Night,1,1,Niagara (82),"c(-79.42488998, 43.63268619)",both
+2013,Evening,1,0,Glenfield-Jane Heights (25),"c(-79.51665231, 43.75185692)",death
+2013,Night,0,1,Rockcliffe-Smythe (111),"c(-79.49371753, 43.67167327)",injuries
+2013,Evening,0,1,Weston (113),"c(-79.50455853, 43.70583035)",injuries
+2013,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",death
+2013,Night,0,1,South Riverdale (70),"c(-79.35088962, 43.65863192)",injuries
+2013,Night,1,0,Humber Summit (21),"c(-79.54226798, 43.76845195)",death
+2013,Night,0,1,York University Heights (27),"c(-79.4961029, 43.76591279)",injuries
+2014,Evening,0,1,Oakridge (121),"c(-79.285359, 43.69699745)",injuries
+2015,Afternoon,0,1,Weston (113),"c(-79.51616258, 43.70016019)",injuries
+2014,Evening,1,0,Weston (113),"c(-79.50379913, 43.70287945)",death
+2015,Night,0,1,West Humber-Clairville (1),"c(-79.58545856, 43.72127309)",injuries
+2014,Night,1,0,St.Andrew-Windfields (40),"c(-79.39533413, 43.76004617)",death
+2014,Night,1,1,Woburn (137),"c(-79.22528368, 43.75982126)",both
+2014,Afternoon,1,0,York University Heights (27),"c(-79.50047966, 43.76224141)",death
+2014,Evening,0,1,Willowdale East (51),"c(-79.40614975, 43.77640983)",injuries
+2014,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2014,Night,0,1,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",injuries
+2014,Evening,1,0,Scarborough Village (139),"c(-79.2205216, 43.74283338)",death
+2014,Morning,0,1,Downsview-Roding-CFB (26),"c(-79.50956735, 43.72489471)",injuries
+2014,Night,1,0,Junction Area (90),"c(-79.4740376, 43.67889965)",death
+2014,Evening,1,0,Regent Park (72),"c(-79.36371254, 43.657222)",death
+2014,Afternoon,2,0,Kingsview Village-The Westway (6),"c(-79.54666971, 43.70069296)",death
+2014,Afternoon,0,1,Blake-Jones (69),"c(-79.33996342, 43.67664689)",injuries
+2014,Afternoon,0,1,O'Connor-Parkview (54),"c(-79.29943495, 43.702865)",injuries
+2014,Afternoon,0,1,Willowridge-Martingrove-Richview (7),"c(-79.57037025, 43.67633938)",injuries
+2014,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2014,Evening,1,0,Downsview-Roding-CFB (26),"c(-79.48595958, 43.74286798)",death
+2014,Afternoon,0,1,Wexford/Maryvale (119),"c(-79.29417623, 43.74773341)",injuries
+2014,Evening,0,1,Mount Dennis (115),"c(-79.50056318, 43.69014364)",injuries
+2014,Evening,1,0,Keelesdale-Eglinton West (110),"c(-79.47147598, 43.69097822)",death
+2014,Night,1,0,Bay Street Corridor (76),"c(-79.38601979, 43.65524051)",death
+2014,Evening,0,1,North St.James Town (74),"c(-79.37640913, 43.67127239)",injuries
+2014,Evening,0,2,Malvern (132),"c(-79.21116678, 43.81185502)",injuries
+2014,Night,0,1,Etobicoke West Mall (13),"c(-79.57217757, 43.6523955)",injuries
+2014,Afternoon,0,6,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2014,Night,0,1,Stonegate-Queensway (16),"c(-79.4995122, 43.62702619)",injuries
+2014,Afternoon,0,1,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2015,Night,0,3,Church-Yonge Corridor (75),"c(-79.37410556, 43.64926232)",injuries
+2015,Night,0,1,Waterfront Communities-The Island (77),"c(-79.38860347, 43.65042088)",injuries
+2015,Afternoon,0,1,Rockcliffe-Smythe (111),"c(-79.48092436, 43.67815229)",injuries
+2015,Evening,0,1,Beechborough-Greenbrook (112),"c(-79.48322731, 43.69340979)",injuries
+2015,Afternoon,0,1,Clairlea-Birchmount (120),"c(-79.28723757, 43.72693679)",injuries
+2015,Evening,0,1,Eringate-Centennial-West Deane (11),"c(-79.57240399, 43.65504573)",injuries
+2015,Evening,0,1,Oakwood Village (107),"c(-79.44527396, 43.69676539)",injuries
+2015,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.5825711, 43.73397143)",injuries
+2015,Evening,0,1,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",injuries
+2015,Night,0,2,Clanton Park (33),"c(-79.43668237, 43.7482637)",injuries
+2015,Evening,0,1,Englemount-Lawrence (32),"c(-79.44176294, 43.73096594)",injuries
+2015,Evening,1,0,Yorkdale-Glen Park (31),"c(-79.44932805, 43.72085817)",death
+2015,Night,0,1,Weston (113),"c(-79.50848955, 43.7085907)",injuries
+2015,Night,1,0,Kensington-Chinatown (78),"c(-79.40396219, 43.65177254)",death
+2015,Evening,0,1,O'Connor-Parkview (54),"c(-79.29571845, 43.70337153)",injuries
+2015,Morning,0,1,Pleasant View (46),"c(-79.33359086, 43.79805132)",injuries
+2015,Evening,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2015,Afternoon,0,2,Oakridge (121),"c(-79.27695418, 43.70239572)",injuries
+2015,Night,2,0,Woodbine Corridor (64),"c(-79.32085134, 43.68394391)",death
+2015,Night,0,1,Eglinton East (138),"c(-79.24370132, 43.73763098)",injuries
+2015,Afternoon,0,1,Oakridge (121),"c(-79.27947672, 43.70321772)",injuries
+2015,Night,0,1,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",injuries
+2015,Evening,0,1,Scarborough Village (139),"c(-79.2205216, 43.74283338)",injuries
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2015,Evening,1,0,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",death
+2015,Night,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2014,Evening,0,1,Englemount-Lawrence (32),"c(-79.43511194, 43.73369259)",injuries
+2015,Night,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58207638, 43.74326507)",death
+2014,Night,0,3,Humber Summit (21),"c(-79.56981396, 43.75725458)",injuries
+2015,Evening,0,1,Humbermede (22),"c(-79.56437541, 43.74731174)",injuries
+2014,Night,1,1,Moss Park (73),"c(-79.3723499, 43.65817021)",both
+2014,Night,1,2,Yorkdale-Glen Park (31),"c(-79.44819077, 43.71911297)",both
+2014,Evening,0,2,Yorkdale-Glen Park (31),"c(-79.45700365, 43.7101653)",injuries
+2014,Night,0,1,Morningside (135),"c(-79.19431473, 43.78927557)",injuries
+2014,Afternoon,0,1,Downsview-Roding-CFB (26),"c(-79.47966604, 43.72971637)",injuries
+2014,Night,0,1,Trinity-Bellwoods (81),"c(-79.40768329, 43.65648148)",injuries
+2014,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",injuries
+2014,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.50788955, 43.7592841)",injuries
+2014,Evening,0,1,Rockcliffe-Smythe (111),"c(-79.48210041, 43.68063272)",injuries
+2014,Evening,0,1,O'Connor-Parkview (54),"c(-79.29943495, 43.702865)",injuries
+2014,Afternoon,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2014,Evening,0,1,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2014,Evening,0,1,Englemount-Lawrence (32),"c(-79.44563386, 43.72391605)",injuries
+2014,Night,0,1,Bendale (127),"c(-79.24671822, 43.75526214)",injuries
+2014,Evening,0,1,Englemount-Lawrence (32),"c(-79.44176294, 43.73096594)",injuries
+2014,Afternoon,0,1,Ionview (125),"c(-79.27583912, 43.72797715)",injuries
+2014,Night,0,1,Kingsview Village-The Westway (6),"c(-79.54843435, 43.69447252)",injuries
+2014,Evening,1,0,Rockcliffe-Smythe (111),"c(-79.49878472, 43.68447757)",death
+2014,Night,1,0,Waterfront Communities-The Island (77),"c(-79.39444755, 43.64402916)",death
+2015,Night,1,0,Henry Farm (53),"c(-79.34112804, 43.77621386)",death
+2015,Afternoon,1,0,Waterfront Communities-The Island (77),"c(-79.39281928, 43.64732006)",death
+2015,Night,0,2,Cliffcrest (123),"c(-79.22675432, 43.73002166)",injuries
+2015,Evening,0,4,Keelesdale-Eglinton West (110),"c(-79.46939587, 43.69142738)",injuries
+2015,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.59008355, 43.73745121)",injuries
+2015,Afternoon,1,0,Humber Summit (21),"c(-79.57203704, 43.7559761)",death
+2015,Morning,0,1,Bayview Village (52),"c(-79.37159387, 43.76801606)",injuries
+2015,Evening,0,1,Englemount-Lawrence (32),"c(-79.44357638, 43.72283271)",injuries
+2015,Evening,0,1,Bendale (127),"c(-79.24671822, 43.75526214)",injuries
+2015,Afternoon,0,2,West Humber-Clairville (1),"c(-79.60096203, 43.73463396)",injuries
+2015,Evening,0,2,Downsview-Roding-CFB (26),"c(-79.48202984, 43.72664298)",injuries
+2016,Afternoon,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2016,Evening,1,0,Taylor-Massey (61),"c(-79.29125809, 43.69314398)",death
+2016,Evening,0,1,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2016,Afternoon,0,1,Morningside (135),"c(-79.19431473, 43.78927557)",injuries
+2016,Evening,0,1,Eglinton East (138),"c(-79.24502051, 43.74322907)",injuries
+2016,Evening,0,1,Edenbridge-Humber Valley (9),"c(-79.51244672, 43.68551456)",injuries
+2016,Night,0,1,West Humber-Clairville (1),"c(-79.59273386, 43.71136139)",injuries
+2016,Afternoon,0,1,Bendale (127),"c(-79.25152037, 43.75428255)",injuries
+2016,Evening,0,1,Englemount-Lawrence (32),"c(-79.44357638, 43.72283271)",injuries
+2016,Night,0,2,Church-Yonge Corridor (75),"c(-79.37437294, 43.64992152)",injuries
+2016,Night,0,3,Flemingdon Park (44),"c(-79.33414521, 43.71492666)",injuries
+2016,Night,1,0,New Toronto (18),"c(-79.50967309, 43.59979141)",death
+2016,Evening,1,1,L'Amoreaux (117),"c(-79.33308972, 43.79817569)",both
+2016,Evening,1,0,Princess-Rosethorn (10),"c(-79.5434554, 43.67199709)",death
+2016,Evening,0,1,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2016,Night,0,2,Niagara (82),"c(-79.40185545, 43.64191381)",injuries
+2016,Night,0,1,O'Connor-Parkview (54),"c(-79.30153584, 43.71530584)",injuries
+2016,Night,1,0,Bendale (127),"c(-79.25361205, 43.77167743)",death
+2016,Night,0,1,Westminster-Branson (35),"c(-79.44563775, 43.77212023)",injuries
+2016,Afternoon,1,0,Yorkdale-Glen Park (31),"c(-79.46577215, 43.70823789)",death
+2016,Night,2,3,Kensington-Chinatown (78),"c(-79.39919196, 43.65585086)",both
+2016,Night,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2016,Morning,0,1,Bendale (127),"c(-79.24671822, 43.75526214)",injuries
+2016,Night,0,1,St.Andrew-Windfields (40),"c(-79.37429638, 43.76533939)",injuries
+2016,Night,0,1,Niagara (82),"c(-79.42133098, 43.63231435)",injuries
+2016,Evening,0,1,York University Heights (27),"c(-79.47004827, 43.78728363)",injuries
+2016,Evening,0,1,St.Andrew-Windfields (40),"c(-79.40183144, 43.75064894)",injuries
+2016,Afternoon,0,1,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",injuries
+2015,Afternoon,0,1,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",injuries
+2015,Evening,0,1,Rouge (131),"c(-79.2109762, 43.81790576)",injuries
+2015,Night,0,1,Humbermede (22),"c(-79.54209151, 43.7508487)",injuries
+2015,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",death
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51833783, 43.751363)",injuries
+2015,Afternoon,0,1,Kensington-Chinatown (78),"c(-79.38944954, 43.65752945)",injuries
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51685349, 43.75181653)",injuries
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51340471, 43.75805965)",injuries
+2015,Night,0,1,Rockcliffe-Smythe (111),"c(-79.47650327, 43.67830541)",injuries
+2015,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58812551, 43.74631642)",injuries
+2015,Afternoon,0,5,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2015,Evening,0,1,Clairlea-Birchmount (120),"c(-79.27107722, 43.7141575)",injuries
+2015,Evening,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2015,Night,0,1,Thorncliffe Park (55),"c(-79.34658826, 43.70321193)",injuries
+2015,Evening,0,1,Kingsview Village-The Westway (6),"c(-79.53435209, 43.70033277)",injuries
+2015,Night,0,1,Clairlea-Birchmount (120),"c(-79.2674807, 43.71161076)",injuries
+2015,Night,0,1,Niagara (82),"c(-79.40653598, 43.64668181)",injuries
+2015,Morning,0,1,Malvern (132),"c(-79.21116678, 43.81185502)",injuries
+2015,Evening,0,1,Pleasant View (46),"c(-79.33359086, 43.79805132)",injuries
+2015,Night,0,1,Wexford/Maryvale (119),"c(-79.30125625, 43.76356211)",injuries
+2015,Evening,0,1,Kensington-Chinatown (78),"c(-79.40087953, 43.65121778)",injuries
+2015,Night,1,0,Greenwood-Coxwell (65),"c(-79.32472818, 43.68311648)",death
+2015,Evening,0,1,Woburn (137),"c(-79.23522673, 43.75772044)",injuries
+2015,Evening,1,0,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44745102, 43.66170967)",death
+2015,Evening,0,1,Kensington-Chinatown (78),"c(-79.39987627, 43.65143665)",injuries
+2015,Afternoon,0,1,Henry Farm (53),"c(-79.34725452, 43.76953164)",injuries
+2015,Evening,0,1,Moss Park (73),"c(-79.37103886, 43.65160431)",injuries
+2015,Afternoon,0,1,Black Creek (24),"c(-79.51614161, 43.75984076)",injuries
+2015,Morning,0,2,Milliken (130),"c(-79.30217243, 43.81902862)",injuries
+2015,Morning,0,2,Scarborough Village (139),"c(-79.2202886, 43.74654133)",injuries
+2015,Afternoon,1,0,Woburn (137),"c(-79.22362234, 43.76162435)",death
+2015,Evening,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2015,Night,0,1,Downsview-Roding-CFB (26),"c(-79.50811877, 43.71907849)",injuries
+2015,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.50926221, 43.73831154)",injuries
+2015,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51665231, 43.75185692)",injuries
+2015,Morning,0,1,Moss Park (73),"c(-79.36947164, 43.65865872)",injuries
+2015,Evening,0,1,Oakridge (121),"c(-79.285359, 43.69699745)",injuries
+2015,Evening,0,2,Malvern (132),"c(-79.21113216, 43.81633068)",injuries
+2015,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.31411471, 43.77348778)",injuries
+2015,Night,0,1,Keelesdale-Eglinton West (110),"c(-79.46641434, 43.68060228)",injuries
+2015,Morning,2,0,Little Portugal (84),"c(-79.42281418, 43.64123734)",death
+2015,Night,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2016,Night,0,1,Annex (95),"c(-79.39124334, 43.67113341)",injuries
+2018,Evening,0,2,North St.James Town (74),"c(-79.37279145, 43.66924446)",injuries
+2016,Evening,0,1,Blake-Jones (69),"c(-79.33982221, 43.67917608)",injuries
+2016,Afternoon,1,0,Niagara (82),"c(-79.41267012, 43.64191049)",death
+2016,Evening,0,1,Moss Park (73),"c(-79.3734186, 43.65730333)",injuries
+2017,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.30446586, 43.77325649)",injuries
+2016,Evening,0,1,Dufferin Grove (83),"c(-79.43287743, 43.66039188)",injuries
+2018,Evening,0,1,Kensington-Chinatown (78),"c(-79.39883998, 43.64954482)",injuries
+2018,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58812551, 43.74631642)",death
+2017,Evening,1,0,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",death
+2018,Night,0,1,West Hill (136),"c(-79.18484133, 43.7648656)",injuries
+2018,Night,1,0,Malvern (132),"c(-79.22418706, 43.80449208)",death
+2018,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.45096908, 43.72277473)",injuries
+2018,Evening,1,0,Annex (95),"c(-79.39015983, 43.67135683)",death
+2018,Evening,1,0,Bay Street Corridor (76),"c(-79.38088599, 43.65632883)",death
+2018,Evening,0,1,Woburn (137),"c(-79.23171553, 43.77643477)",injuries
+2018,Evening,0,1,Pelmo Park-Humberlea (23),"c(-79.53818881, 43.73374801)",injuries
+2018,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39211621, 43.64968054)",injuries
+2018,Evening,1,0,New Toronto (18),"c(-79.50936023, 43.60258723)",death
+2018,Night,0,1,Clairlea-Birchmount (120),"c(-79.28415472, 43.71956796)",injuries
+2018,Night,0,1,Black Creek (24),"c(-79.51964817, 43.76590936)",injuries
+2018,Afternoon,0,2,Milliken (130),"c(-79.27321037, 43.82310661)",injuries
+2018,Evening,0,1,South Riverdale (70),"c(-79.35058013, 43.64309128)",injuries
+2018,Evening,0,1,South Parkdale (85),"c(-79.42733544, 43.63896)",injuries
+2018,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2018,Evening,0,1,Blake-Jones (69),"c(-79.33814773, 43.6724497)",injuries
+2018,Night,1,0,Englemount-Lawrence (32),"c(-79.44386942, 43.71948624)",death
+2018,Night,2,0,Thistletown-Beaumond Heights (3),"c(-79.57639979, 43.73845538)",death
+2018,Night,1,0,Moss Park (73),"c(-79.37099208, 43.65829436)",death
+2018,Evening,0,1,Rustic (28),"c(-79.50310977, 43.70469926)",injuries
+2018,Night,0,2,Moss Park (73),"c(-79.37272187, 43.65560782)",injuries
+2018,Afternoon,0,1,Downsview-Roding-CFB (26),"c(-79.50956735, 43.72489471)",injuries
+2018,Evening,2,1,Waterfront Communities-The Island (77),"c(-79.39366252, 43.64935047)",both
+2018,Evening,1,3,Kensington-Chinatown (78),"c(-79.40229657, 43.65523449)",both
+2018,Night,0,1,Waterfront Communities-The Island (77),"c(-79.40005716, 43.64445256)",injuries
+2018,Night,1,0,Black Creek (24),"c(-79.51472666, 43.76721178)",death
+2018,Evening,0,1,Annex (95),"c(-79.40484258, 43.6724255)",injuries
+2018,Night,1,0,Black Creek (24),"c(-79.51872198, 43.76916389)",death
+2018,Evening,0,1,Cliffcrest (123),"c(-79.23534638, 43.70721461)",injuries
+2018,Night,0,1,Willowridge-Martingrove-Richview (7),"c(-79.56169285, 43.69357428)",injuries
+2018,Afternoon,0,2,Parkwoods-Donalda (45),"c(-79.32088327, 43.75936459)",injuries
+2018,Evening,0,1,Briar Hill-Belgravia (108),"c(-79.4472933, 43.69635948)",injuries
+2018,Night,0,1,Bendale (127),"c(-79.25089301, 43.7544141)",injuries
+2018,Night,2,13,North Riverdale (68),"c(-79.351925, 43.67755671)",both
+2018,Afternoon,0,1,Rustic (28),"c(-79.50217323, 43.71275173)",injuries
+2018,Night,0,1,Willowdale East (51),"c(-79.39629705, 43.78398165)",injuries
+2018,Morning,1,0,Humber Summit (21),"c(-79.56882783, 43.75471072)",death
+2018,Evening,0,1,South Riverdale (70),"c(-79.35192093, 43.66013699)",injuries
+2018,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2018,Evening,0,1,Henry Farm (53),"c(-79.3314292, 43.77120155)",injuries
+2018,Afternoon,0,2,Bayview Woods-Steeles (49),"c(-79.36908237, 43.79129462)",injuries
+2018,Evening,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37788316, 43.72173341)",injuries
+2018,Night,0,3,Downsview-Roding-CFB (26),"c(-79.50859475, 43.72091645)",injuries
+2018,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58812551, 43.74631642)",injuries
+2018,Evening,0,1,Cabbagetown-South St.James Town (71),"c(-79.37170183, 43.66651225)",injuries
+2018,Evening,1,0,West Humber-Clairville (1),"c(-79.58938369, 43.73202412)",death
+2018,Evening,0,1,West Humber-Clairville (1),"c(-79.61423505, 43.73219045)",injuries
+2018,Evening,0,1,Dorset Park (126),"c(-79.27941653, 43.76129774)",injuries
+2018,Night,1,0,Moss Park (73),"c(-79.36474468, 43.65298813)",death
+2018,Evening,0,1,High Park-Swansea (87),"c(-79.45127101, 43.63933996)",injuries
+2017,Night,0,1,Niagara (82),"c(-79.40215599, 43.64265388)",injuries
+2016,Evening,1,0,South Riverdale (70),"c(-79.35192093, 43.66013699)",death
+2018,Evening,0,1,Flemingdon Park (44),"c(-79.33136581, 43.71836061)",injuries
+2017,Night,0,1,Bendale (127),"c(-79.26040132, 43.76290668)",injuries
+2018,Evening,0,1,L'Amoreaux (117),"c(-79.3316921, 43.7985166)",injuries
+2016,Evening,0,1,Trinity-Bellwoods (81),"c(-79.4059829, 43.65231108)",injuries
+2017,Night,0,1,University (79),"c(-79.40266823, 43.66690503)",injuries
+2018,Evening,0,1,Flemingdon Park (44),"c(-79.33193014, 43.71941472)",injuries
+2017,Evening,0,1,Elms-Old Rexdale (5),"c(-79.54567603, 43.72127341)",injuries
+2018,Night,1,0,Blake-Jones (69),"c(-79.34056846, 43.67979025)",death
+2018,Evening,1,0,Humber Heights-Westmount (8),"c(-79.5173064, 43.69461525)",death
+2017,Night,0,1,Oakwood Village (107),"c(-79.44088328, 43.69282259)",injuries
+2016,Night,0,1,Elms-Old Rexdale (5),"c(-79.54567603, 43.72127341)",injuries
+2018,Morning,1,0,Mount Dennis (115),"c(-79.50085239, 43.6913029)",death
+2018,Evening,2,0,Yorkdale-Glen Park (31),"c(-79.45547639, 43.71764066)",death
+2016,Evening,0,1,Weston (113),"c(-79.51616258, 43.70016019)",injuries
+2017,Night,0,1,L'Amoreaux (117),"c(-79.33290138, 43.80020159)",injuries
+2017,Morning,1,0,Scarborough Village (139),"c(-79.22319102, 43.74046355)",death
+2017,Afternoon,0,1,Weston (113),"c(-79.51532571, 43.69982144)",injuries
+2017,Evening,0,1,Dorset Park (126),"c(-79.28239276, 43.76445387)",injuries
+2017,Night,1,0,Waterfront Communities-The Island (77),"c(-79.37074933, 43.64783612)",death
+2017,Evening,0,3,West Humber-Clairville (1),"c(-79.58678411, 43.68794902)",injuries
+2017,Evening,0,1,O'Connor-Parkview (54),"c(-79.29943495, 43.702865)",injuries
+2017,Evening,0,1,Black Creek (24),"c(-79.50973955, 43.76046034)",injuries
+2017,Evening,0,1,Long Branch (19),"c(-79.53236154, 43.59473653)",injuries
+2018,Night,0,1,Kensington-Chinatown (78),"c(-79.40595313, 43.65543579)",injuries
+2018,Night,0,1,Regent Park (72),"c(-79.3649748, 43.66105179)",injuries
+2018,Night,0,1,Glenfield-Jane Heights (25),"c(-79.51508777, 43.74709495)",injuries
+2018,Afternoon,0,2,Yorkdale-Glen Park (31),"c(-79.44893304, 43.71749643)",injuries
+2018,Afternoon,0,1,Etobicoke West Mall (13),"c(-79.57264037, 43.65168216)",injuries
+2018,Evening,0,1,Weston-Pellam Park (91),"c(-79.45969359, 43.67046032)",injuries
+2018,Evening,1,0,Humber Heights-Westmount (8),"c(-79.5173064, 43.69461525)",death
+2018,Night,0,2,Niagara (82),"c(-79.4026656, 43.64392483)",injuries
+2018,Night,0,1,Milliken (130),"c(-79.29217493, 43.81457861)",injuries
+2018,Afternoon,0,1,Humbermede (22),"c(-79.55736169, 43.74812916)",injuries
+2018,Night,2,2,Eringate-Centennial-West Deane (11),"c(-79.56837973, 43.65939746)",both
+2018,Evening,0,1,Etobicoke West Mall (13),"c(-79.57264037, 43.65168216)",injuries
+2018,Night,0,1,Caledonia-Fairbank (109),"c(-79.45023952, 43.69569257)",injuries
+2018,Night,0,1,O'Connor-Parkview (54),"c(-79.31049911, 43.70590119)",injuries
+2018,Evening,0,1,Dufferin Grove (83),"c(-79.44630541, 43.65520331)",injuries
+2018,Night,0,1,Yorkdale-Glen Park (31),"c(-79.4547113, 43.71408738)",injuries
+2018,Evening,1,0,Bayview Village (52),"c(-79.3873481, 43.78072585)",death
+2018,Evening,0,1,West Hill (136),"c(-79.19883389, 43.76014168)",injuries
+2018,Night,1,0,Highland Creek (134),"c(-79.17240665, 43.78218914)",death
+2018,Morning,0,1,Elms-Old Rexdale (5),"c(-79.54932451, 43.72729069)",injuries
+2018,Night,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2018,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.50043653, 43.72255719)",injuries
+2018,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.38250349, 43.64061295)",injuries
+2018,Night,0,1,Waterfront Communities-The Island (77),"c(-79.40059685, 43.64573236)",injuries
+2018,Evening,1,0,Black Creek (24),"c(-79.52036423, 43.76882728)",death
+2017,Evening,0,1,Regent Park (72),"c(-79.36174292, 43.66035993)",injuries
+2018,Morning,0,1,Bay Street Corridor (76),"c(-79.38702746, 43.66853925)",injuries
+2017,Night,0,1,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",injuries
+2016,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50715447, 43.74847366)",injuries
+2016,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.36972623, 43.64848901)",injuries
+2018,Night,0,1,Palmerston-Little Italy (80),"c(-79.41117403, 43.66511537)",injuries
+2017,Afternoon,0,2,Brookhaven-Amesbury (30),"c(-79.50162117, 43.69755013)",injuries
+2016,Evening,1,0,Victoria Village (43),"c(-79.31348249, 43.72602399)",death
+2017,Evening,0,1,Roncesvalles (86),"c(-79.44946863, 43.6537446)",injuries
+2017,Afternoon,1,0,Downsview-Roding-CFB (26),"c(-79.51410965, 43.72063505)",death
+2018,Afternoon,1,0,West Hill (136),"c(-79.18803696, 43.76726763)",death
+2018,Night,0,1,Kennedy Park (124),"c(-79.25201093, 43.73584906)",injuries
+2018,Night,0,1,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",injuries
+2017,Evening,0,1,Bendale (127),"c(-79.25598279, 43.75607441)",injuries
+2017,Evening,0,1,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",injuries
+2016,Night,0,1,High Park-Swansea (87),"c(-79.47101519, 43.63826102)",injuries
+2016,Morning,1,0,Black Creek (24),"c(-79.51872198, 43.76916389)",death
+2018,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2018,Morning,0,1,Rockcliffe-Smythe (111),"c(-79.49173005, 43.66718573)",injuries
+2017,Afternoon,0,2,Yorkdale-Glen Park (31),"c(-79.46752766, 43.70542326)",injuries
+2018,Night,0,1,Yorkdale-Glen Park (31),"c(-79.44819077, 43.71911297)",injuries
+2018,Evening,0,1,Oakwood Village (107),"c(-79.44713126, 43.69471797)",injuries
+2018,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.50811877, 43.71907849)",injuries
+2018,Night,0,1,Niagara (82),"c(-79.42115741, 43.64372573)",injuries
+2018,Night,0,1,York University Heights (27),"c(-79.49802256, 43.77867194)",injuries
+2018,Evening,0,1,East End-Danforth (62),"c(-79.3005068, 43.68844665)",injuries
+2018,Evening,0,1,Morningside (135),"c(-79.19330085, 43.78534276)",injuries
+2018,Evening,0,1,Kennedy Park (124),"c(-79.2555692, 43.73507361)",injuries
+2018,Evening,1,0,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",death
+2018,Evening,0,1,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",injuries
+2018,Night,0,1,Waterfront Communities-The Island (77),"c(-79.38091602, 43.64168463)",injuries
+2018,Evening,0,1,Woburn (137),"c(-79.23248508, 43.78608577)",injuries
+2018,Morning,1,0,Black Creek (24),"c(-79.5177342, 43.75901653)",death
+2018,Evening,0,1,Brookhaven-Amesbury (30),"c(-79.47870373, 43.70171856)",injuries
+2018,Night,0,1,Malvern (132),"c(-79.23418162, 43.8118567)",injuries
+2018,Afternoon,0,1,Black Creek (24),"c(-79.51163274, 43.76604243)",injuries
+2018,Morning,0,1,Wychwood (94),"c(-79.41835704, 43.68181151)",injuries
+2018,Night,1,1,Waterfront Communities-The Island (77),"c(-79.39760717, 43.64495335)",both
+2018,Evening,1,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58578825, 43.75097753)",both
+2018,Night,0,1,Yorkdale-Glen Park (31),"c(-79.44893304, 43.71749643)",injuries
+2018,Night,0,1,St.Andrew-Windfields (40),"c(-79.40315892, 43.7541872)",injuries
+2018,Night,0,1,Elms-Old Rexdale (5),"c(-79.55384096, 43.71806233)",injuries
+2018,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.28822199, 43.78328634)",injuries
+2018,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51665231, 43.75185692)",injuries
+2018,Morning,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2018,Night,0,1,Niagara (82),"c(-79.41882219, 43.64420339)",injuries
+2018,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51644975, 43.75250954)",injuries
+2019,Night,0,1,Oakwood Village (107),"c(-79.44028456, 43.6914827)",injuries
+2019,Evening,0,1,Rouge (131),"c(-79.15423526, 43.7999456)",injuries
+2019,Night,0,1,Greenwood-Coxwell (65),"c(-79.32720741, 43.67453551)",injuries
+2019,Afternoon,0,1,Yorkdale-Glen Park (31),"c(-79.45394879, 43.71641528)",injuries
+2019,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.31772245, 43.77651429)",injuries
+2019,Afternoon,0,2,The Beaches (63),"c(-79.30573552, 43.66875614)",injuries
+2019,Evening,1,0,Rexdale-Kipling (4),"c(-79.55989938, 43.7228525)",death
+2019,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.39924205, 43.63909783)",injuries
+2019,Night,1,0,Dorset Park (126),"c(-79.28720757, 43.76957807)",death
+2019,Night,0,1,Victoria Village (43),"c(-79.30738708, 43.73627083)",injuries
+2019,Night,0,1,Pelmo Park-Humberlea (23),"c(-79.53746202, 43.72037837)",injuries
+2019,Afternoon,0,1,Church-Yonge Corridor (75),"c(-79.37410556, 43.64926232)",injuries
+2019,Afternoon,0,1,Bay Street Corridor (76),"c(-79.38307051, 43.66137201)",injuries
+2019,Morning,0,1,Oakwood Village (107),"c(-79.43886354, 43.6915407)",injuries
+2019,Night,1,0,Moss Park (73),"c(-79.36442266, 43.65561541)",death
+2019,Morning,1,0,Mimico (includes Humber Bay Shores) (17),"c(-79.47893413, 43.62369402)",death
+2019,Evening,0,2,Kingsview Village-The Westway (6),"c(-79.54412712, 43.69762452)",injuries
+2019,Afternoon,0,1,Agincourt South-Malvern West (128),"c(-79.25879661, 43.78961887)",injuries
+2019,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.46752766, 43.70542326)",injuries
+2019,Afternoon,1,0,West Hill (136),"c(-79.19485322, 43.76649368)",death
+2019,Night,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2016,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",injuries
+2016,Evening,0,1,Black Creek (24),"c(-79.52138662, 43.77320849)",injuries
+2018,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.59008355, 43.73745121)",injuries
+2018,Afternoon,0,1,Humber Summit (21),"c(-79.56753511, 43.75507094)",injuries
+2016,Morning,0,1,West Humber-Clairville (1),"c(-79.59220978, 43.71467196)",injuries
+2018,Morning,1,0,Clairlea-Birchmount (120),"c(-79.27550733, 43.70151223)",death
+2017,Afternoon,0,1,Beechborough-Greenbrook (112),"c(-79.48322731, 43.69340979)",injuries
+2017,Evening,1,0,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",death
+2017,Morning,0,1,Maple Leaf (29),"c(-79.48068506, 43.72051599)",injuries
+2017,Night,0,1,West Humber-Clairville (1),"c(-79.59044143, 43.70624751)",injuries
+2016,Evening,0,1,Humber Summit (21),"c(-79.5529431, 43.75144038)",injuries
+2017,Morning,0,1,Black Creek (24),"c(-79.52979844, 43.76682693)",injuries
+2016,Afternoon,0,1,Dorset Park (126),"c(-79.28320883, 43.77173238)",injuries
+2016,Evening,0,1,West Hill (136),"c(-79.19753967, 43.7589681)",injuries
+2016,Night,1,0,South Parkdale (85),"c(-79.42529763, 43.63734542)",death
+2016,Evening,0,2,Humber Summit (21),"c(-79.56939982, 43.75669307)",injuries
+2016,Night,0,1,Rockcliffe-Smythe (111),"c(-79.48038289, 43.67643376)",injuries
+2016,Evening,0,1,Annex (95),"c(-79.39787549, 43.66923262)",injuries
+2016,Evening,0,1,Etobicoke West Mall (13),"c(-79.56311386, 43.64557579)",injuries
+2016,Evening,0,1,Moss Park (73),"c(-79.37008264, 43.65616228)",injuries
+2016,Morning,0,1,Downsview-Roding-CFB (26),"c(-79.48368863, 43.73358135)",injuries
+2016,Evening,0,1,Eringate-Centennial-West Deane (11),"c(-79.56475575, 43.65575613)",injuries
+2016,Evening,0,1,Lansing-Westgate (38),"c(-79.42027493, 43.75944401)",injuries
+2016,Morning,1,0,West Humber-Clairville (1),"c(-79.61073391, 43.73784283)",death
+2016,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.50659517, 43.73977615)",injuries
+2016,Evening,0,1,West Hill (136),"c(-79.17802503, 43.76138113)",injuries
+2016,Afternoon,0,1,Agincourt South-Malvern West (128),"c(-79.28466526, 43.80003988)",injuries
+2016,Night,1,0,Weston (113),"c(-79.51775154, 43.70060252)",death
+2016,Evening,0,2,Glenfield-Jane Heights (25),"c(-79.50500677, 43.74012808)",injuries
+2016,Afternoon,1,1,West Humber-Clairville (1),"c(-79.60011652, 43.74703729)",both
+2016,Evening,0,1,Agincourt South-Malvern West (128),"c(-79.25879661, 43.78961887)",injuries
+2016,Evening,0,1,Humber Heights-Westmount (8),"c(-79.52593094, 43.70050771)",injuries
+2016,Evening,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2016,Night,0,2,Eringate-Centennial-West Deane (11),"c(-79.56475575, 43.65575613)",injuries
+2016,Night,0,1,Don Valley Village (47),"c(-79.34869595, 43.77908536)",injuries
+2016,Night,1,0,Kingsview Village-The Westway (6),"c(-79.55633714, 43.69953193)",death
+2016,Evening,0,1,Flemingdon Park (44),"c(-79.33136581, 43.71836061)",injuries
+2016,Night,1,0,Woburn (137),"c(-79.20558788, 43.76404781)",death
+2016,Afternoon,0,1,High Park-Swansea (87),"c(-79.47101519, 43.63826102)",injuries
+2016,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39048611, 43.64500819)",injuries
+2016,Night,0,1,Roncesvalles (86),"c(-79.43317784, 43.64370353)",injuries
+2017,Afternoon,0,2,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2016,Afternoon,1,0,South Riverdale (70),"c(-79.35290454, 43.66176998)",death
+2017,Night,0,1,Regent Park (72),"c(-79.36093839, 43.66192019)",injuries
+2018,Night,1,1,Malvern (132),"c(-79.21012713, 43.80914276)",both
+2018,Night,0,1,Oakwood Village (107),"c(-79.43865208, 43.69144788)",injuries
+2017,Evening,0,1,Kensington-Chinatown (78),"c(-79.39875925, 43.6493456)",injuries
+2018,Evening,1,0,Niagara (82),"c(-79.40325003, 43.63573543)",death
+2018,Afternoon,0,1,Woburn (137),"c(-79.22795668, 43.76672259)",injuries
+2017,Morning,0,1,Long Branch (19),"c(-79.5341702, 43.59525798)",injuries
+2016,Night,0,1,Greenwood-Coxwell (65),"c(-79.32720741, 43.67453551)",injuries
+2016,Morning,0,1,Weston (113),"c(-79.51127669, 43.69834448)",injuries
+2016,Evening,1,0,Old East York (58),"c(-79.34269116, 43.69373846)",death
+2016,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2016,Night,1,2,Scarborough Village (139),"c(-79.21965317, 43.74501856)",both
+2016,Night,0,1,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2016,Evening,1,0,Weston (113),"c(-79.51775154, 43.70060252)",death
+2016,Evening,0,1,Willowridge-Martingrove-Richview (7),"c(-79.55861018, 43.69425151)",injuries
+2016,Evening,1,0,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",death
+2016,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2016,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39228875, 43.64605377)",injuries
+2016,Night,0,1,O'Connor-Parkview (54),"c(-79.30489867, 43.71598673)",injuries
+2017,Night,0,1,Rockcliffe-Smythe (111),"c(-79.49922824, 43.66607429)",injuries
+2017,Night,0,1,Humber Summit (21),"c(-79.54266883, 43.75333712)",injuries
+2017,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2017,Morning,1,0,Moss Park (73),"c(-79.36789985, 43.65485425)",death
+2017,Night,0,1,Moss Park (73),"c(-79.36941977, 43.65452491)",injuries
+2017,Morning,0,1,East End-Danforth (62),"c(-79.3017916, 43.68814492)",injuries
+2017,Evening,0,1,West Humber-Clairville (1),"c(-79.57580279, 43.73052116)",injuries
+2017,Evening,0,1,Englemount-Lawrence (32),"c(-79.44563386, 43.72391605)",injuries
+2017,Night,1,0,Humber Summit (21),"c(-79.56918107, 43.75623063)",death
+2017,Afternoon,0,1,York University Heights (27),"c(-79.48993942, 43.75932597)",injuries
+2017,Night,0,1,Niagara (82),"c(-79.40215599, 43.64265388)",injuries
+2017,Evening,1,0,Regent Park (72),"c(-79.3622939, 43.66297124)",death
+2017,Afternoon,1,0,Moss Park (73),"c(-79.37103886, 43.65160431)",death
+2017,Evening,1,0,Glenfield-Jane Heights (25),"c(-79.51703417, 43.75485496)",death
+2017,Night,1,0,Danforth (66),"c(-79.34293544, 43.68280849)",death
+2017,Afternoon,0,1,Black Creek (24),"c(-79.51807494, 43.75897564)",injuries
+2017,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",injuries
+2017,Evening,1,0,Elms-Old Rexdale (5),"c(-79.552331, 43.71655082)",death
+2017,Night,0,1,West Humber-Clairville (1),"c(-79.57604161, 43.72865076)",injuries
+2017,Evening,0,1,High Park-Swansea (87),"c(-79.44637474, 43.6395159)",injuries
+2017,Evening,0,1,Flemingdon Park (44),"c(-79.33631057, 43.71440385)",injuries
+2017,Night,0,1,Weston (113),"c(-79.50507556, 43.70755243)",injuries
+2017,Night,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2017,Evening,0,1,Bay Street Corridor (76),"c(-79.38188491, 43.65866815)",injuries
+2017,Night,0,1,Willowdale East (51),"c(-79.40850721, 43.75760637)",injuries
+2017,Evening,0,1,Briar Hill-Belgravia (108),"c(-79.46348404, 43.69844276)",injuries
+2017,Evening,0,2,Scarborough Village (139),"c(-79.21968694, 43.74510157)",injuries
+2017,Night,1,0,Rouge (131),"c(-79.18462411, 43.81019918)",death
+2017,Evening,1,0,Regent Park (72),"c(-79.3647333, 43.66044764)",death
+2017,Night,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58705964, 43.75362093)",injuries
+2018,Evening,0,1,Wexford/Maryvale (119),"c(-79.28821089, 43.75585063)",injuries
+2017,Afternoon,0,1,Parkwoods-Donalda (45),"c(-79.32195416, 43.76011174)",injuries
+2018,Night,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2018,Evening,0,1,Agincourt South-Malvern West (128),"c(-79.25471309, 43.78793768)",injuries
+2017,Evening,0,1,South Parkdale (85),"c(-79.44218264, 43.63949071)",injuries
+2018,Night,0,2,Bay Street Corridor (76),"c(-79.38188491, 43.65866815)",injuries
+2017,Evening,1,0,Taylor-Massey (61),"c(-79.29542007, 43.70167784)",death
+2018,Afternoon,1,0,Weston-Pellam Park (91),"c(-79.46313594, 43.67401149)",death
+2017,Night,0,1,York University Heights (27),"c(-79.49162166, 43.75374117)",injuries
+2017,Evening,0,1,Keelesdale-Eglinton West (110),"c(-79.47387271, 43.69042154)",injuries
+2017,Afternoon,0,1,Kennedy Park (124),"c(-79.2584626, 43.72673559)",injuries
+2017,Night,1,0,Dorset Park (126),"c(-79.28551179, 43.76890038)",death
+2017,Night,1,1,Regent Park (72),"c(-79.3602871, 43.66342614)",both
+2017,Evening,1,0,Waterfront Communities-The Island (77),"c(-79.38632963, 43.64800878)",death
+2017,Night,0,1,Waterfront Communities-The Island (77),"c(-79.37074933, 43.64783612)",injuries
+2017,Evening,0,1,Regent Park (72),"c(-79.3631446, 43.66279163)",injuries
+2017,Evening,1,0,Downsview-Roding-CFB (26),"c(-79.51410965, 43.72063505)",death
+2017,Night,2,0,South Riverdale (70),"c(-79.35058013, 43.64309128)",death
+2017,Afternoon,0,1,Kennedy Park (124),"c(-79.25010348, 43.73498978)",injuries
+2017,Afternoon,1,0,Kingsview Village-The Westway (6),"c(-79.54843435, 43.69447252)",death
+2017,Evening,1,2,Kingsview Village-The Westway (6),"c(-79.55219337, 43.69873278)",both
+2017,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.44514481, 43.71921226)",injuries
+2017,Evening,1,0,Humber Summit (21),"c(-79.5529431, 43.75144038)",death
+2017,Night,0,1,Humbermede (22),"c(-79.55736169, 43.74812916)",injuries
+2017,Evening,0,1,North Riverdale (68),"c(-79.34200883, 43.67212205)",injuries
+2017,Morning,0,1,Eglinton East (138),"c(-79.24003832, 43.74238904)",injuries
+2017,Evening,0,1,Humber Summit (21),"c(-79.56939982, 43.75669307)",injuries
+2017,Evening,1,0,Moss Park (73),"c(-79.36597615, 43.65944077)",death
+2017,Morning,0,1,Parkwoods-Donalda (45),"c(-79.31457449, 43.75606269)",injuries
+2017,Evening,0,1,Thistletown-Beaumond Heights (3),"c(-79.56688946, 43.74063867)",injuries
+2017,Evening,1,0,Rouge (131),"c(-79.20173504, 43.81334035)",death
+2017,Evening,0,1,South Parkdale (85),"c(-79.435934, 43.64071989)",injuries
+2017,Night,0,1,West Humber-Clairville (1),"c(-79.59166379, 43.73677452)",injuries
+2018,Evening,1,0,Parkwoods-Donalda (45),"c(-79.31812314, 43.76451458)",death
+2017,Afternoon,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2017,Night,0,1,Islington-City Centre West (14),"c(-79.56141669, 43.61773179)",injuries
+2018,Evening,0,1,Bendale (127),"c(-79.24538205, 43.75554721)",injuries
+2018,Evening,0,1,Malvern (132),"c(-79.21861195, 43.80653528)",injuries
+2017,Night,0,1,Downsview-Roding-CFB (26),"c(-79.48356291, 43.73312303)",injuries
+2018,Morning,0,1,Kennedy Park (124),"c(-79.25567193, 43.72888996)",injuries
+2018,Afternoon,0,1,Islington-City Centre West (14),"c(-79.56583959, 43.65225207)",injuries
+2017,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39410409, 43.64705106)",injuries
+2018,Evening,0,1,O'Connor-Parkview (54),"c(-79.32547998, 43.70369027)",injuries
+2018,Night,0,1,Stonegate-Queensway (16),"c(-79.50796619, 43.64810274)",injuries
+2017,Night,0,1,Kennedy Park (124),"c(-79.25806428, 43.73452984)",injuries
+2017,Night,0,1,Englemount-Lawrence (32),"c(-79.44280296, 43.72453537)",injuries
+2018,Evening,1,0,Eglinton East (138),"c(-79.2320155, 43.74303707)",death
+2018,Night,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37788316, 43.72173341)",injuries
+2018,Night,0,1,Downsview-Roding-CFB (26),"c(-79.49104019, 43.72461805)",injuries
+2018,Afternoon,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.49999818, 43.62017159)",injuries
+2018,Night,0,1,Church-Yonge Corridor (75),"c(-79.37437294, 43.64992152)",injuries
+2018,Night,0,1,Wexford/Maryvale (119),"c(-79.30051382, 43.74409914)",injuries
+2018,Evening,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.45238466, 43.66549693)",injuries
+2018,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51340471, 43.75805965)",injuries
+2018,Afternoon,0,1,Hillcrest Village (48),"c(-79.34127547, 43.8156505)",injuries
+2018,Night,0,1,Regent Park (72),"c(-79.36350594, 43.66137399)",injuries
+2018,Night,0,1,Humbermede (22),"c(-79.56231951, 43.74776626)",injuries
+2018,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.50964031, 43.73967319)",injuries
+2018,Evening,0,1,Humbermede (22),"c(-79.55759297, 43.74879602)",injuries
+2018,Morning,1,0,Princess-Rosethorn (10),"c(-79.55012904, 43.67339566)",death
+2018,Evening,0,1,Weston-Pellam Park (91),"c(-79.45600383, 43.66809286)",injuries
+2018,Evening,0,1,Keelesdale-Eglinton West (110),"c(-79.47147598, 43.69097822)",injuries
+2018,Night,0,1,Mount Dennis (115),"c(-79.49598253, 43.68929218)",injuries
+2018,Evening,0,1,Clairlea-Birchmount (120),"c(-79.29747446, 43.72565086)",injuries
+2018,Evening,0,1,Briar Hill-Belgravia (108),"c(-79.4472933, 43.69635948)",injuries
+2018,Afternoon,0,1,Englemount-Lawrence (32),"c(-79.44563386, 43.72391605)",injuries
+2018,Evening,1,0,Bay Street Corridor (76),"c(-79.37733067, 43.64784591)",death
+2018,Night,1,1,Morningside (135),"c(-79.21615056, 43.7754204)",both
+2018,Afternoon,0,1,Downsview-Roding-CFB (26),"c(-79.51318036, 43.73938991)",injuries
+2018,Night,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2017,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.52131088, 43.74174582)",injuries
+2017,Evening,0,2,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2018,Night,0,1,York University Heights (27),"c(-79.49460855, 43.77771807)",injuries
+2017,Afternoon,0,1,High Park-Swansea (87),"c(-79.47100511, 43.63695828)",injuries
+2017,Evening,0,1,Moss Park (73),"c(-79.36616856, 43.6526954)",injuries
+2017,Evening,0,1,Victoria Village (43),"c(-79.30842382, 43.73879902)",injuries
+2017,Afternoon,0,1,Kensington-Chinatown (78),"c(-79.40046169, 43.65014859)",injuries
+2017,Night,1,0,Humber Heights-Westmount (8),"c(-79.51968211, 43.69122335)",death
+2017,Night,0,2,Waterfront Communities-The Island (77),"c(-79.395007, 43.64546954)",injuries
+2017,Night,0,1,Blake-Jones (69),"c(-79.33595459, 43.67972868)",injuries
+2018,Evening,1,0,Agincourt South-Malvern West (128),"c(-79.2621899, 43.7882081)",death
+2017,Night,0,1,O'Connor-Parkview (54),"c(-79.30153584, 43.71530584)",injuries
+2017,Night,0,1,Malvern (132),"c(-79.2144505, 43.80776187)",injuries
+2018,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50788955, 43.7592841)",injuries
+2017,Evening,0,2,L'Amoreaux (117),"c(-79.33089277, 43.79745328)",injuries
+2017,Evening,0,2,Eglinton East (138),"c(-79.24452499, 43.74414068)",injuries
+2017,Evening,0,1,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",injuries
+2018,Night,0,1,Keelesdale-Eglinton West (110),"c(-79.47387271, 43.69042154)",injuries
+2017,Evening,1,0,L'Amoreaux (117),"c(-79.33089277, 43.79745328)",death
+2017,Night,2,1,Rouge (131),"c(-79.19915478, 43.81331342)",both
+2017,Night,0,6,Parkwoods-Donalda (45),"c(-79.31520451, 43.75786873)",injuries
+2017,Evening,1,0,South Riverdale (70),"c(-79.34355095, 43.66028737)",death
+2018,Afternoon,0,1,York University Heights (27),"c(-79.49101221, 43.76350255)",injuries
+2017,Evening,1,0,Malvern (132),"c(-79.21024367, 43.81020263)",death
+2018,Evening,1,1,Henry Farm (53),"c(-79.34477913, 43.77268778)",both
+2018,Morning,0,2,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",injuries
+2018,Afternoon,1,0,Regent Park (72),"c(-79.36267396, 43.65942878)",death
+2017,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51134996, 43.75013528)",injuries
+2017,Evening,0,1,Woburn (137),"c(-79.23293774, 43.77954305)",injuries
+2017,Evening,1,0,Yorkdale-Glen Park (31),"c(-79.45239005, 43.71432793)",death
+2017,Night,0,1,Yorkdale-Glen Park (31),"c(-79.44819077, 43.71911297)",injuries
+2017,Evening,1,0,Briar Hill-Belgravia (108),"c(-79.4511015, 43.69791736)",death
+2017,Evening,0,1,Dorset Park (126),"c(-79.2822164, 43.76942091)",injuries
+2017,Evening,0,1,West Humber-Clairville (1),"c(-79.59278328, 43.73908012)",injuries
+2017,Evening,0,1,Roncesvalles (86),"c(-79.43463614, 43.64244878)",injuries
+2017,Night,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37178938, 43.72233339)",injuries
+2017,Night,0,1,Corso Italia-Davenport (92),"c(-79.44334012, 43.67875296)",injuries
+2017,Afternoon,0,2,Dorset Park (126),"c(-79.28103716, 43.76580146)",injuries
+2017,Night,0,1,Downsview-Roding-CFB (26),"c(-79.48356291, 43.73312303)",injuries
+2017,Night,0,1,Trinity-Bellwoods (81),"c(-79.4059829, 43.65231108)",injuries
+2017,Evening,0,1,Wexford/Maryvale (119),"c(-79.29274905, 43.74054783)",injuries
+2017,Evening,0,3,Parkwoods-Donalda (45),"c(-79.34131995, 43.75705337)",injuries
+2017,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58986714, 43.73881001)",injuries
+2017,Evening,1,0,South Riverdale (70),"c(-79.34515535, 43.66709459)",death
+2017,Evening,0,1,L'Amoreaux (117),"c(-79.30948375, 43.79909424)",injuries
+2017,Afternoon,0,1,Keelesdale-Eglinton West (110),"c(-79.46520812, 43.68735765)",injuries
+2017,Morning,0,1,Humber Summit (21),"c(-79.56315183, 43.74886877)",injuries
+2017,Night,1,0,Humbermede (22),"c(-79.55724333, 43.74768761)",death
+2017,Night,0,1,Waterfront Communities-The Island (77),"c(-79.3883628, 43.64757108)",injuries
+2017,Afternoon,0,2,Tam O'Shanter-Sullivan (118),"c(-79.2993063, 43.78359438)",injuries
+2018,Evening,1,0,York University Heights (27),"c(-79.49460855, 43.77771807)",death
+2017,Night,0,2,Glenfield-Jane Heights (25),"c(-79.51508777, 43.74709495)",injuries
+2018,Afternoon,1,0,Tam O'Shanter-Sullivan (118),"c(-79.2993063, 43.78359438)",death
+2017,Evening,1,4,Moss Park (73),"c(-79.36941977, 43.65452491)",both
+2017,Night,1,0,Humewood-Cedarvale (106),"c(-79.41992425, 43.68720846)",death
+2018,Evening,0,1,Bay Street Corridor (76),"c(-79.37993395, 43.65406269)",injuries
+2017,Evening,0,1,Willowridge-Martingrove-Richview (7),"c(-79.57037025, 43.67633938)",injuries
+2018,Night,0,1,Caledonia-Fairbank (109),"c(-79.45241461, 43.68928798)",injuries
+2017,Night,0,1,Glenfield-Jane Heights (25),"c(-79.50753093, 43.74760022)",injuries
+2017,Afternoon,0,1,Weston (113),"c(-79.50507556, 43.70755243)",injuries
+2017,Night,0,1,Waterfront Communities-The Island (77),"c(-79.40005716, 43.64445256)",injuries
+2017,Evening,0,1,Flemingdon Park (44),"c(-79.32773832, 43.71937641)",injuries
+2017,Afternoon,0,2,Glenfield-Jane Heights (25),"c(-79.50684467, 43.74032482)",injuries
+2017,Evening,0,1,Islington-City Centre West (14),"c(-79.55686589, 43.61012637)",injuries
+2017,Night,0,2,Waterfront Communities-The Island (77),"c(-79.39105358, 43.64631528)",injuries
+2017,Night,1,0,Kensington-Chinatown (78),"c(-79.40648042, 43.65672138)",death
+2017,Evening,0,1,Bendale (127),"c(-79.24671822, 43.75526214)",injuries
+2017,Morning,0,1,Eringate-Centennial-West Deane (11),"c(-79.57240399, 43.65504573)",injuries
+2018,Afternoon,1,0,Downsview-Roding-CFB (26),"c(-79.4901831, 43.73471251)",death
+2018,Night,0,1,Agincourt South-Malvern West (128),"c(-79.25089856, 43.79639781)",injuries
+2018,Evening,0,1,High Park-Swansea (87),"c(-79.45127101, 43.63933996)",injuries
+2018,Evening,0,1,Scarborough Village (139),"c(-79.21945113, 43.73660189)",injuries
+2018,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.5825711, 43.73397143)",injuries
+2018,Night,0,1,Woodbine-Lumsden (60),"c(-79.31489671, 43.69302064)",injuries
+2018,Night,0,1,Niagara (82),"c(-79.40306565, 43.64488902)",injuries
+2018,Evening,0,1,Moss Park (73),"c(-79.36755676, 43.65636789)",injuries
+2018,Night,0,1,Rockcliffe-Smythe (111),"c(-79.47433325, 43.67652562)",injuries
+2018,Afternoon,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2018,Afternoon,0,1,Oakwood Village (107),"c(-79.4395218, 43.69617018)",injuries
+2018,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58986714, 43.73881001)",injuries
+2018,Night,1,0,Pelmo Park-Humberlea (23),"c(-79.5304014, 43.71947355)",death
+2019,Evening,1,0,Rexdale-Kipling (4),"c(-79.55594468, 43.71694966)",death
+2019,Night,0,1,North Riverdale (68),"c(-79.34730449, 43.6784602)",injuries
+2019,Morning,0,2,Yorkdale-Glen Park (31),"c(-79.46752766, 43.70542326)",injuries
+2019,Afternoon,0,1,Woburn (137),"c(-79.24961963, 43.78223693)",injuries
+2019,Afternoon,1,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58033521, 43.73496126)",both
+2019,Night,1,0,Oakwood Village (107),"c(-79.44028456, 43.6914827)",death
+2019,Afternoon,0,1,Mount Pleasant East (99),"c(-79.37727036, 43.71203098)",injuries
+2019,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2019,Evening,0,1,Agincourt South-Malvern West (128),"c(-79.2785283, 43.78534724)",injuries
+2019,Evening,0,2,Mount Dennis (115),"c(-79.50085239, 43.6913029)",injuries
+2020,Afternoon,0,1,Kensington-Chinatown (78),"c(-79.3952972, 43.65130143)",injuries
+2020,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.5825711, 43.73397143)",injuries
+2019,Evening,0,1,Clanton Park (33),"c(-79.4511982, 43.73949668)",injuries
+2019,Night,1,0,Rustic (28),"c(-79.5047176, 43.71574209)",death
+2019,Evening,0,1,South Riverdale (70),"c(-79.35270854, 43.66134085)",injuries
+2019,Night,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37788316, 43.72173341)",injuries
+2019,Night,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2020,Night,0,1,Bendale (127),"c(-79.24439755, 43.7504022)",injuries
+2019,Night,0,3,Dorset Park (126),"c(-79.28637659, 43.7710755)",injuries
+2019,Night,0,2,Waterfront Communities-The Island (77),"c(-79.3995137, 43.64318313)",injuries
+2019,Night,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58578825, 43.75097753)",injuries
+2019,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58950179, 43.75593284)",death
+2019,Evening,0,1,L'Amoreaux (117),"c(-79.30807952, 43.80013896)",injuries
+2019,Night,0,1,Wexford/Maryvale (119),"c(-79.30125625, 43.76356211)",injuries
+2019,Evening,2,0,Glenfield-Jane Heights (25),"c(-79.51134996, 43.75013528)",death
+2019,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51289814, 43.75224824)",injuries
+2019,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2019,Evening,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.4445597, 43.66511528)",injuries
+2019,Afternoon,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58755582, 43.73688887)",injuries
+2019,Afternoon,0,1,Pelmo Park-Humberlea (23),"c(-79.52818848, 43.70979327)",injuries
+2019,Evening,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2019,Evening,0,1,Bendale (127),"c(-79.25803501, 43.75297334)",injuries
+2019,Evening,0,2,Yorkdale-Glen Park (31),"c(-79.45662421, 43.72272571)",injuries
+2019,Evening,0,1,Woburn (137),"c(-79.22105626, 43.75536442)",injuries
+2019,Night,0,2,Oakwood Village (107),"c(-79.44088328, 43.69282259)",injuries
+2019,Night,0,1,Trinity-Bellwoods (81),"c(-79.40768329, 43.65648148)",injuries
+2019,Night,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58755582, 43.73688887)",death
+2019,Night,0,1,Kensington-Chinatown (78),"c(-79.38944954, 43.65752945)",injuries
+2019,Evening,1,0,Hillcrest Village (48),"c(-79.35807772, 43.81114186)",death
+2019,Afternoon,0,3,Corso Italia-Davenport (92),"c(-79.43551602, 43.6786848)",injuries
+2019,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58578825, 43.75097753)",injuries
+2019,Night,0,1,West Humber-Clairville (1),"c(-79.59314754, 43.697844)",injuries
+2019,Evening,1,0,High Park-Swansea (87),"c(-79.47101519, 43.63826102)",death
+2019,Evening,0,1,Tam O'Shanter-Sullivan (118),"c(-79.29712101, 43.78411259)",injuries
+2019,Afternoon,0,1,Weston (113),"c(-79.50420958, 43.70447479)",injuries
+2019,Evening,0,1,Humber Heights-Westmount (8),"c(-79.52325572, 43.69817775)",injuries
+2019,Evening,0,1,Oakwood Village (107),"c(-79.44088328, 43.69282259)",injuries
+2019,Night,0,1,Etobicoke West Mall (13),"c(-79.57217757, 43.6523955)",injuries
+2019,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",injuries
+2019,Night,0,2,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",injuries
+2019,Evening,0,1,Weston (113),"c(-79.50379913, 43.70287945)",injuries
+2019,Night,0,2,Weston (113),"c(-79.52582277, 43.70322535)",injuries
+2019,Evening,0,5,Beechborough-Greenbrook (112),"c(-79.48220638, 43.69370821)",injuries
+2019,Morning,0,1,Brookhaven-Amesbury (30),"c(-79.50285482, 43.69955476)",injuries
+2019,Evening,0,2,Danforth East York (59),"c(-79.34532818, 43.69009248)",injuries
+2019,Night,0,1,Lambton Baby Point (114),"c(-79.48934516, 43.65015734)",injuries
+2019,Evening,0,2,Banbury-Don Mills (42),"c(-79.33957284, 43.72302474)",injuries
+2019,Night,0,1,Flemingdon Park (44),"c(-79.33631057, 43.71440385)",injuries
+2019,Evening,0,1,Eglinton East (138),"c(-79.24452499, 43.74414068)",injuries
+2019,Afternoon,1,0,Islington-City Centre West (14),"c(-79.55611632, 43.61421803)",death
+2019,Night,1,0,Taylor-Massey (61),"c(-79.2996563, 43.69468093)",death
+2019,Evening,0,1,Thistletown-Beaumond Heights (3),"c(-79.56406093, 43.73876382)",injuries
+2019,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.4547113, 43.71408738)",injuries
+2019,Night,1,1,Weston (113),"c(-79.50420958, 43.70447479)",both
+2019,Night,0,1,Greenwood-Coxwell (65),"c(-79.32589804, 43.67140105)",injuries
+2019,Night,0,1,Humbermede (22),"c(-79.54234005, 43.752091)",injuries
+2019,Afternoon,0,1,Beechborough-Greenbrook (112),"c(-79.48618301, 43.69330653)",injuries
+2019,Evening,0,1,Centennial Scarborough (133),"c(-79.14307129, 43.79498849)",injuries
+2019,Morning,0,2,York University Heights (27),"c(-79.47471632, 43.78618439)",injuries
+2020,Morning,0,1,Highland Creek (134),"c(-79.16624907, 43.79961663)",injuries
+2020,Night,0,1,Englemount-Lawrence (32),"c(-79.44182392, 43.72260982)",injuries
+2020,Morning,0,1,Downsview-Roding-CFB (26),"c(-79.48248767, 43.72856336)",injuries
+2019,Night,0,1,Woburn (137),"c(-79.21100949, 43.76286448)",injuries
+2020,Evening,1,0,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",death
+2019,Night,1,0,Yonge-Eglinton (100),"c(-79.40847575, 43.70459942)",death
+2019,Night,0,1,Glenfield-Jane Heights (25),"c(-79.51134996, 43.75013528)",injuries
+2020,Morning,0,1,Malvern (132),"c(-79.21531516, 43.80117784)",injuries
+2019,Afternoon,1,0,Eglinton East (138),"c(-79.24468, 43.74478793)",death
+2020,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2019,Night,0,1,Downsview-Roding-CFB (26),"c(-79.48582324, 43.73817389)",injuries
+2020,Evening,0,2,Woburn (137),"c(-79.22105626, 43.75536442)",injuries
+2019,Afternoon,0,2,Yorkdale-Glen Park (31),"c(-79.46083492, 43.7127547)",injuries
+2020,Evening,1,1,Pleasant View (46),"c(-79.32412896, 43.77774265)",both
+2020,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.51410965, 43.72063505)",injuries
+2020,Evening,0,2,Glenfield-Jane Heights (25),"c(-79.50801565, 43.74807862)",injuries
+2020,Evening,0,1,Ionview (125),"c(-79.26745118, 43.74044515)",injuries
+2020,Night,0,1,Islington-City Centre West (14),"c(-79.54624934, 43.61642017)",injuries
+2020,Evening,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37788316, 43.72173341)",injuries
+2020,Afternoon,0,2,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",injuries
+2020,Afternoon,0,1,Oakridge (121),"c(-79.27675095, 43.69555418)",injuries
+2020,Afternoon,1,2,Waterfront Communities-The Island (77),"c(-79.39202118, 43.64537211)",both
+2020,Evening,0,1,Malvern (132),"c(-79.21250552, 43.81208221)",injuries
+2020,Afternoon,0,1,East End-Danforth (62),"c(-79.29871872, 43.68424822)",injuries
+2020,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50871654, 43.74712806)",injuries
+2020,Night,1,0,West Humber-Clairville (1),"c(-79.59278328, 43.73908012)",death
+2020,Evening,0,1,L'Amoreaux (117),"c(-79.31417576, 43.79140112)",injuries
+2020,Evening,1,1,Thorncliffe Park (55),"c(-79.3509504, 43.7135987)",both
+2020,Evening,0,2,Downsview-Roding-CFB (26),"c(-79.5137606, 43.71983148)",injuries
+2020,Evening,0,1,Malvern (132),"c(-79.23844993, 43.81039598)",injuries
+2020,Evening,0,1,Parkwoods-Donalda (45),"c(-79.3224195, 43.76634133)",injuries
+2020,Evening,1,0,Church-Yonge Corridor (75),"c(-79.37562599, 43.6568205)",death
+2020,Morning,1,0,Corso Italia-Davenport (92),"c(-79.44859736, 43.67673399)",death
+2020,Night,0,1,Tam O'Shanter-Sullivan (118),"c(-79.30350586, 43.78210748)",injuries
+2020,Night,0,1,Flemingdon Park (44),"c(-79.32848978, 43.71903099)",injuries
+2020,Evening,0,1,York University Heights (27),"c(-79.49481846, 43.75665163)",injuries
+2020,Evening,0,1,Kensington-Chinatown (78),"c(-79.39863995, 43.65205921)",injuries
+2020,Afternoon,1,0,L'Amoreaux (117),"c(-79.33308972, 43.79817569)",death
+2020,Night,0,1,Willowdale East (51),"c(-79.40614975, 43.77640983)",injuries
+2020,Afternoon,1,0,Bendale (127),"c(-79.25417421, 43.77664804)",death
+2020,Evening,1,4,Rockcliffe-Smythe (111),"c(-79.49371753, 43.67167327)",both
+2020,Evening,0,2,New Toronto (18),"c(-79.50886163, 43.60153841)",injuries
+2020,Night,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44770883, 43.65977965)",injuries
+2020,Evening,0,3,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2020,Night,0,1,Thorncliffe Park (55),"c(-79.35357569, 43.71406817)",injuries
+2020,Night,0,1,Willowridge-Martingrove-Richview (7),"c(-79.56839514, 43.67571392)",injuries
+2020,Morning,0,1,Kensington-Chinatown (78),"c(-79.39883998, 43.64954482)",injuries
+2019,Evening,0,1,Roncesvalles (86),"c(-79.44756763, 43.65192761)",injuries
+2019,Evening,1,0,Downsview-Roding-CFB (26),"c(-79.48582324, 43.73817389)",death
+2019,Morning,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37548029, 43.73781707)",injuries
+2019,Night,0,1,Little Portugal (84),"c(-79.42237064, 43.64349082)",injuries
+2020,Afternoon,0,1,Morningside (135),"c(-79.20349887, 43.77937759)",injuries
+2019,Afternoon,0,1,Niagara (82),"c(-79.41391587, 43.63867005)",injuries
+2019,Night,0,2,Weston (113),"c(-79.51208583, 43.70109301)",injuries
+2019,Evening,0,2,Yorkdale-Glen Park (31),"c(-79.44819077, 43.71911297)",injuries
+2019,Night,0,2,Church-Yonge Corridor (75),"c(-79.3749069, 43.65118528)",injuries
+2019,Evening,0,1,Woburn (137),"c(-79.21100949, 43.76286448)",injuries
+2019,Evening,0,1,Humber Heights-Westmount (8),"c(-79.52593094, 43.70050771)",injuries
+2019,Morning,0,4,York University Heights (27),"c(-79.48823726, 43.76408749)",injuries
+2019,Afternoon,0,2,Flemingdon Park (44),"c(-79.33491684, 43.71873068)",injuries
+2019,Evening,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.50856954, 43.61726346)",injuries
+2019,Night,0,1,Woburn (137),"c(-79.21527748, 43.75626829)",injuries
+2019,Afternoon,1,1,Victoria Village (43),"c(-79.29974922, 43.7178591)",both
+2019,Night,0,1,West Hill (136),"c(-79.19943219, 43.76544497)",injuries
+2019,Night,0,1,Downsview-Roding-CFB (26),"c(-79.49104019, 43.72461805)",injuries
+2019,Night,0,1,West Humber-Clairville (1),"c(-79.59552737, 43.68675813)",injuries
+2019,Night,0,1,Danforth (66),"c(-79.33795893, 43.6821025)",injuries
+2019,Afternoon,0,1,Lansing-Westgate (38),"c(-79.41008296, 43.758226)",injuries
+2019,Afternoon,0,1,Malvern (132),"c(-79.21485837, 43.7972767)",injuries
+2019,Afternoon,1,0,High Park-Swansea (87),"c(-79.45003169, 43.64894777)",death
+2019,Afternoon,0,1,Flemingdon Park (44),"c(-79.33193014, 43.71941472)",injuries
+2019,Afternoon,0,1,Kingsview Village-The Westway (6),"c(-79.55211794, 43.69579839)",injuries
+2019,Morning,0,1,Edenbridge-Humber Valley (9),"c(-79.52122612, 43.67763008)",injuries
+2019,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58578825, 43.75097753)",injuries
+2019,Evening,1,0,Pelmo Park-Humberlea (23),"c(-79.53601349, 43.71305284)",death
+2019,Evening,1,0,Mount Dennis (115),"c(-79.5027382, 43.6920523)",death
+2019,Night,0,4,Yorkdale-Glen Park (31),"c(-79.44377026, 43.70899936)",injuries
+2019,Night,1,0,Humber Summit (21),"c(-79.55801745, 43.76000003)",death
+2019,Afternoon,0,2,Bayview Woods-Steeles (49),"c(-79.36908237, 43.79129462)",injuries
+2019,Evening,0,1,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",injuries
+2019,Evening,0,1,Weston-Pellam Park (91),"c(-79.46564669, 43.67984921)",injuries
+2019,Evening,0,1,West Humber-Clairville (1),"c(-79.58726582, 43.68951723)",injuries
+2019,Evening,0,1,Cliffcrest (123),"c(-79.25040879, 43.72325444)",injuries
+2019,Morning,0,1,Woburn (137),"c(-79.21833267, 43.75571779)",injuries
+2019,Afternoon,0,1,Rexdale-Kipling (4),"c(-79.55507738, 43.71510482)",injuries
+2019,Evening,0,1,Malvern (132),"c(-79.22088214, 43.80557764)",injuries
+2019,Afternoon,0,1,Elms-Old Rexdale (5),"c(-79.54567603, 43.72127341)",injuries
+2019,Evening,1,0,Yorkdale-Glen Park (31),"c(-79.45314037, 43.70698317)",death
+2019,Afternoon,0,1,Willowridge-Martingrove-Richview (7),"c(-79.56701018, 43.68522174)",injuries
+2019,Evening,0,2,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2019,Afternoon,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2019,Evening,1,1,Milliken (130),"c(-79.2591371, 43.82152828)",both
+2019,Evening,0,1,Regent Park (72),"c(-79.36174292, 43.66035993)",injuries
+2019,Afternoon,1,0,Etobicoke West Mall (13),"c(-79.56610821, 43.65128273)",death
+2020,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",injuries
+2020,Evening,0,1,South Riverdale (70),"c(-79.35250842, 43.6566903)",injuries
+2019,Night,0,1,Lambton Baby Point (114),"c(-79.49803034, 43.6584761)",injuries
+2020,Evening,0,1,Rouge (131),"c(-79.18162677, 43.81252288)",injuries
+2019,Night,0,1,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",injuries
+2020,Evening,0,1,L'Amoreaux (117),"c(-79.33308972, 43.79817569)",injuries
+2020,Afternoon,0,1,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",injuries
+2019,Evening,0,1,Malvern (132),"c(-79.20648936, 43.8083524)",injuries
+2020,Night,0,2,O'Connor-Parkview (54),"c(-79.29694018, 43.70045663)",injuries
+2020,Night,0,1,Moss Park (73),"c(-79.3657162, 43.65533986)",injuries
+2020,Evening,0,1,Black Creek (24),"c(-79.52423159, 43.7733177)",injuries
+2020,Evening,0,1,Regent Park (72),"c(-79.35864726, 43.66241529)",injuries
+2020,Afternoon,0,1,Oakridge (121),"c(-79.27947672, 43.70321772)",injuries
+2020,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2020,Morning,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.4897495, 43.61273143)",injuries
+2020,Afternoon,0,1,Kensington-Chinatown (78),"c(-79.40006773, 43.64914048)",injuries
+2020,Evening,0,1,Briar Hill-Belgravia (108),"c(-79.4472933, 43.69635948)",injuries
+2020,Night,1,0,Eglinton East (138),"c(-79.24476022, 43.74416792)",death
+2020,Morning,0,1,West Humber-Clairville (1),"c(-79.59500367, 43.7289736)",injuries
+2020,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.44556484, 43.71912975)",injuries
+2020,Morning,0,2,L'Amoreaux (117),"c(-79.30702426, 43.80064689)",injuries
+2020,Evening,0,1,Pelmo Park-Humberlea (23),"c(-79.53818881, 43.73374801)",injuries
+2020,Night,0,1,Oakridge (121),"c(-79.28279671, 43.69666126)",injuries
+2020,Night,0,1,Keelesdale-Eglinton West (110),"c(-79.47277291, 43.68491474)",injuries
+2020,Night,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2020,Evening,0,3,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2020,Night,0,1,Church-Yonge Corridor (75),"c(-79.37830693, 43.66628508)",injuries
+2020,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2020,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58755582, 43.73688887)",injuries
+2020,Evening,1,0,Willowdale East (51),"c(-79.40850721, 43.75760637)",death
+2020,Night,0,1,Eglinton East (138),"c(-79.24502051, 43.74322907)",injuries
+2020,Afternoon,0,1,Woburn (137),"c(-79.20481915, 43.76422965)",injuries
+2020,Night,0,1,Playter Estates-Danforth (67),"c(-79.34758568, 43.67920364)",injuries
+2020,Evening,0,2,Eglinton East (138),"c(-79.24476022, 43.74416792)",injuries
+2020,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.48165414, 43.72511192)",injuries
+2020,Afternoon,0,2,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2020,Afternoon,0,1,Humber Summit (21),"c(-79.57483162, 43.76434476)",injuries
+2020,Evening,0,3,Taylor-Massey (61),"c(-79.29235253, 43.69527373)",injuries
+2020,Evening,0,1,Dufferin Grove (83),"c(-79.43427392, 43.65712246)",injuries
+2020,Morning,0,1,Morningside (135),"c(-79.19793737, 43.79031287)",injuries
+2020,Night,1,0,York University Heights (27),"c(-79.4896086, 43.75117849)",death
+2020,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.46632161, 43.72726225)",injuries
+2020,Night,0,6,Oakwood Village (107),"c(-79.44021599, 43.69784622)",injuries
+2019,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39634181, 43.64876464)",injuries
+2019,Night,0,3,Brookhaven-Amesbury (30),"c(-79.49804743, 43.69726405)",injuries
+2019,Night,0,2,Islington-City Centre West (14),"c(-79.52340178, 43.64465036)",injuries
+2020,Afternoon,0,1,Taylor-Massey (61),"c(-79.29181642, 43.69575899)",injuries
+2019,Morning,0,1,Humber Summit (21),"c(-79.56753511, 43.75507094)",injuries
+2020,Evening,0,1,Bendale (127),"c(-79.26129037, 43.77006451)",injuries
+2019,Evening,0,1,Elms-Old Rexdale (5),"c(-79.5524212, 43.71413843)",injuries
+2020,Afternoon,0,1,West Hill (136),"c(-79.19753967, 43.7589681)",injuries
+2020,Evening,0,1,Corso Italia-Davenport (92),"c(-79.44304265, 43.67796161)",injuries
+2021,Morning,0,1,Niagara (82),"c(-79.41085639, 43.63245316)",injuries
+2021,Evening,0,1,Oakwood Village (107),"c(-79.44026694, 43.68307414)",injuries
+2021,Afternoon,0,2,Woburn (137),"c(-79.21797194, 43.75766116)",injuries
+2021,Afternoon,0,1,Malvern (132),"c(-79.20753714, 43.81277197)",injuries
+2021,Afternoon,1,0,Humbermede (22),"c(-79.55759297, 43.74879602)",death
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51508777, 43.74709495)",injuries
+2021,Evening,1,0,York University Heights (27),"c(-79.50372563, 43.76525072)",death
+2021,Night,0,1,Maple Leaf (29),"c(-79.49057049, 43.71831323)",injuries
+2021,Evening,1,1,Rosedale-Moore Park (98),"c(-79.38809991, 43.68268105)",both
+2021,Evening,1,0,Rustic (28),"c(-79.5047176, 43.71574209)",death
+2021,Night,0,3,Regent Park (72),"c(-79.36174292, 43.66035993)",injuries
+2021,Evening,1,1,Malvern (132),"c(-79.23027993, 43.79559304)",both
+2021,Evening,1,0,Yorkdale-Glen Park (31),"c(-79.46204555, 43.71249153)",death
+2021,Evening,1,0,Wexford/Maryvale (119),"c(-79.30216238, 43.74375996)",death
+2019,Afternoon,0,1,Yorkdale-Glen Park (31),"c(-79.44893304, 43.71749643)",injuries
+2021,Evening,1,0,East End-Danforth (62),"c(-79.30729606, 43.68693699)",death
+2021,Night,0,1,Greenwood-Coxwell (65),"c(-79.32617622, 43.66417337)",injuries
+2021,Night,0,1,Black Creek (24),"c(-79.51692512, 43.76197135)",injuries
+2021,Night,0,1,Humbermede (22),"c(-79.55736169, 43.74812916)",injuries
+2021,Evening,1,0,Willowridge-Martingrove-Richview (7),"c(-79.56482668, 43.68384812)",death
+2021,Evening,0,1,Playter Estates-Danforth (67),"c(-79.35861168, 43.67752071)",injuries
+2021,Evening,0,1,Waterfront Communities-The Island (77),"c(-79.39833497, 43.64030158)",injuries
+2021,Evening,0,1,Humber Heights-Westmount (8),"c(-79.51745424, 43.69262736)",injuries
+2021,Afternoon,0,1,New Toronto (18),"c(-79.50794492, 43.60112996)",injuries
+2021,Evening,0,1,Cabbagetown-South St.James Town (71),"c(-79.37216821, 43.66763473)",injuries
+2021,Evening,0,1,Beechborough-Greenbrook (112),"c(-79.4733684, 43.6929809)",injuries
+2021,Night,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44926545, 43.66417251)",injuries
+2021,Night,0,1,New Toronto (18),"c(-79.51798505, 43.60068281)",injuries
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.5156441, 43.74914839)",injuries
+2021,Evening,0,2,Mount Olive-Silverstone-Jamestown (2),"c(-79.58637766, 43.73250887)",injuries
+2021,Afternoon,1,1,Humber Heights-Westmount (8),"c(-79.52556866, 43.69959742)",both
+2021,Afternoon,0,1,Beechborough-Greenbrook (112),"c(-79.48322731, 43.69340979)",injuries
+2021,Evening,0,1,Weston (113),"c(-79.52540756, 43.7030092)",injuries
+2019,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50871654, 43.74712806)",injuries
+2020,Night,0,1,Kensington-Chinatown (78),"c(-79.39863995, 43.65205921)",injuries
+2019,Evening,1,2,Humber Summit (21),"c(-79.54266883, 43.75333712)",both
+2020,Night,0,1,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2019,Night,0,1,Bay Street Corridor (76),"c(-79.38132952, 43.65741605)",injuries
+2019,Afternoon,1,0,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44957406, 43.65871183)",death
+2019,Evening,0,1,Thistletown-Beaumond Heights (3),"c(-79.56858062, 43.74624912)",injuries
+2019,Evening,1,0,Bayview Woods-Steeles (49),"c(-79.36908237, 43.79129462)",death
+2019,Evening,0,1,Playter Estates-Danforth (67),"c(-79.36153536, 43.68122615)",injuries
+2020,Evening,0,1,Princess-Rosethorn (10),"c(-79.55543799, 43.67421883)",injuries
+2020,Evening,0,1,St.Andrew-Windfields (40),"c(-79.36276656, 43.76618596)",injuries
+2020,Afternoon,0,1,Oakwood Village (107),"c(-79.44117742, 43.69349785)",injuries
+2020,Evening,0,1,Humbermede (22),"c(-79.53941452, 43.73899044)",injuries
+2020,Evening,0,1,Flemingdon Park (44),"c(-79.33136581, 43.71836061)",injuries
+2020,Night,0,1,Corso Italia-Davenport (92),"c(-79.44436556, 43.68128225)",injuries
+2020,Night,0,1,Pleasant View (46),"c(-79.33137023, 43.79310642)",injuries
+2020,Night,0,1,Rouge (131),"c(-79.22102932, 43.81969637)",injuries
+2020,Night,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2020,Night,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58976624, 43.75296452)",injuries
+2020,Morning,1,1,Agincourt South-Malvern West (128),"c(-79.2703796, 43.7855734)",both
+2020,Night,0,1,Parkwoods-Donalda (45),"c(-79.31559263, 43.75091557)",injuries
+2020,Evening,0,1,Caledonia-Fairbank (109),"c(-79.44957315, 43.6893723)",injuries
+2020,Evening,0,1,Regent Park (72),"c(-79.35842146, 43.66188892)",injuries
+2020,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51644975, 43.75250954)",injuries
+2020,Afternoon,1,0,Clairlea-Birchmount (120),"c(-79.28874946, 43.72068578)",death
+2020,Evening,1,0,Bay Street Corridor (76),"c(-79.38063454, 43.65577409)",death
+2020,Evening,0,1,Islington-City Centre West (14),"c(-79.54127909, 43.63478175)",injuries
+2020,Evening,0,1,Oakridge (121),"c(-79.27947672, 43.70321772)",injuries
+2020,Afternoon,0,1,Humbermede (22),"c(-79.55227613, 43.74994572)",injuries
+2020,Morning,0,1,Rouge (131),"c(-79.20404172, 43.82154985)",injuries
+2020,Evening,0,1,Woburn (137),"c(-79.21579746, 43.76185035)",injuries
+2020,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.44861224, 43.72328355)",injuries
+2020,Afternoon,0,1,Englemount-Lawrence (32),"c(-79.44386942, 43.71948624)",injuries
+2020,Evening,1,0,Thorncliffe Park (55),"c(-79.35162719, 43.70328132)",death
+2020,Evening,1,0,Wychwood (94),"c(-79.43246523, 43.68027632)",death
+2020,Evening,0,1,Yorkdale-Glen Park (31),"c(-79.44893304, 43.71749643)",injuries
+2020,Night,0,1,Bay Street Corridor (76),"c(-79.37993395, 43.65406269)",injuries
+2020,Night,0,1,Kingsview Village-The Westway (6),"c(-79.5413542, 43.6968112)",injuries
+2020,Evening,0,1,Bridle Path-Sunnybrook-York Mills (41),"c(-79.37355239, 43.72297859)",injuries
+2020,Evening,0,1,Malvern (132),"c(-79.19972992, 43.80197257)",injuries
+2020,Afternoon,1,0,Glenfield-Jane Heights (25),"c(-79.50684467, 43.74032482)",death
+2020,Evening,0,1,O'Connor-Parkview (54),"c(-79.30153584, 43.71530584)",injuries
+2020,Evening,1,0,Wexford/Maryvale (119),"c(-79.29969685, 43.74754519)",death
+2019,Evening,0,1,Malvern (132),"c(-79.22709532, 43.81092647)",injuries
+2019,Afternoon,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.47893413, 43.62369402)",injuries
+2020,Night,0,1,New Toronto (18),"c(-79.50639441, 43.60049471)",injuries
+2019,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2019,Evening,0,1,Englemount-Lawrence (32),"c(-79.43997894, 43.72153768)",injuries
+2019,Evening,0,3,Willowridge-Martingrove-Richview (7),"c(-79.57037025, 43.67633938)",injuries
+2019,Afternoon,0,5,Bay Street Corridor (76),"c(-79.38238489, 43.65176074)",injuries
+2019,Afternoon,0,1,South Parkdale (85),"c(-79.42661556, 43.63707373)",injuries
+2019,Night,1,0,Downsview-Roding-CFB (26),"c(-79.48248767, 43.72856336)",death
+2019,Afternoon,0,1,Malvern (132),"c(-79.21555349, 43.80779799)",injuries
+2019,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.51318036, 43.73938991)",injuries
+2020,Evening,0,2,Clanton Park (33),"c(-79.43698382, 43.73676241)",injuries
+2019,Night,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2020,Afternoon,1,0,Rockcliffe-Smythe (111),"c(-79.48564049, 43.66850215)",death
+2019,Evening,0,1,Scarborough Village (139),"c(-79.2205216, 43.74283338)",injuries
+2019,Night,0,1,Woburn (137),"c(-79.22700827, 43.76791302)",injuries
+2019,Afternoon,0,1,Yorkdale-Glen Park (31),"c(-79.44893304, 43.71749643)",injuries
+2019,Evening,0,2,Beechborough-Greenbrook (112),"c(-79.48322731, 43.69340979)",injuries
+2019,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.5107957, 43.74666709)",injuries
+2019,Evening,0,1,Agincourt North (129),"c(-79.26723759, 43.81052487)",injuries
+2019,Night,0,1,Yorkdale-Glen Park (31),"c(-79.44377026, 43.70899936)",injuries
+2019,Evening,0,1,Weston-Pellam Park (91),"c(-79.45708702, 43.67484531)",injuries
+2019,Evening,0,1,Princess-Rosethorn (10),"c(-79.53708878, 43.67564583)",injuries
+2019,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39760717, 43.64495335)",injuries
+2019,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50926221, 43.73831154)",injuries
+2019,Night,0,1,Glenfield-Jane Heights (25),"c(-79.50871654, 43.74712806)",injuries
+2019,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2019,Evening,0,1,West Humber-Clairville (1),"c(-79.59941174, 43.73091013)",injuries
+2019,Night,1,0,Oakwood Village (107),"c(-79.43865208, 43.69144788)",death
+2019,Night,0,1,Edenbridge-Humber Valley (9),"c(-79.52267349, 43.65544517)",injuries
+2019,Evening,0,1,Taylor-Massey (61),"c(-79.29506949, 43.70087568)",injuries
+2019,Evening,1,0,Morningside (135),"c(-79.21296317, 43.77465518)",death
+2019,Afternoon,1,0,West Humber-Clairville (1),"c(-79.59033164, 43.73401277)",death
+2019,Evening,0,1,Humber Heights-Westmount (8),"c(-79.52325572, 43.69817775)",injuries
+2019,Night,1,0,Humber Summit (21),"c(-79.56602556, 43.76058759)",death
+2019,Evening,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2019,Night,0,1,West Hill (136),"c(-79.1992585, 43.75703738)",injuries
+2019,Evening,0,2,Elms-Old Rexdale (5),"c(-79.55163424, 43.72622302)",injuries
+2019,Evening,0,1,Rosedale-Moore Park (98),"c(-79.36816374, 43.67377546)",injuries
+2019,Night,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2019,Afternoon,0,1,Kingsview Village-The Westway (6),"c(-79.55040173, 43.70511172)",injuries
+2019,Evening,0,1,Brookhaven-Amesbury (30),"c(-79.48239714, 43.70753879)",injuries
+2019,Night,0,1,West Humber-Clairville (1),"c(-79.59033164, 43.73401277)",injuries
+2019,Evening,0,1,Woburn (137),"c(-79.22101157, 43.77567953)",injuries
+2019,Evening,0,2,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",injuries
+2019,Night,0,1,Westminster-Branson (35),"c(-79.45250959, 43.77446153)",injuries
+2019,Afternoon,0,1,Glenfield-Jane Heights (25),"c(-79.51630349, 43.75189346)",injuries
+2019,Night,0,1,Thorncliffe Park (55),"c(-79.34658826, 43.70321193)",injuries
+2019,Night,0,1,South Riverdale (70),"c(-79.34817882, 43.66318305)",injuries
+2019,Evening,0,1,Briar Hill-Belgravia (108),"c(-79.45929791, 43.69575462)",injuries
+2019,Night,1,0,Etobicoke West Mall (13),"c(-79.56478117, 43.63934284)",death
+2019,Night,1,0,Eglinton East (138),"c(-79.23969294, 43.74160962)",death
+2019,Evening,1,0,Malvern (132),"c(-79.22671389, 43.81198024)",death
+2019,Night,0,2,Glenfield-Jane Heights (25),"c(-79.51665231, 43.75185692)",injuries
+2020,Evening,1,1,Regent Park (72),"c(-79.35864726, 43.66241529)",both
+2020,Afternoon,0,1,Yorkdale-Glen Park (31),"c(-79.45096908, 43.72277473)",injuries
+2020,Night,1,0,Morningside (135),"c(-79.20909342, 43.78706868)",death
+2020,Night,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.44340776, 43.66537166)",injuries
+2020,Night,0,1,West Hill (136),"c(-79.18956913, 43.76765091)",injuries
+2020,Afternoon,1,0,Woburn (137),"c(-79.23293774, 43.77954305)",death
+2020,Evening,0,1,York University Heights (27),"c(-79.49745577, 43.76918847)",injuries
+2020,Evening,1,2,Scarborough Village (139),"c(-79.21945113, 43.73660189)",both
+2020,Night,0,1,Clanton Park (33),"c(-79.44723648, 43.73458545)",injuries
+2020,Night,0,2,Downsview-Roding-CFB (26),"c(-79.49935105, 43.72278293)",injuries
+2020,Evening,2,1,Waterfront Communities-The Island (77),"c(-79.39924205, 43.63909783)",both
+2020,Night,0,1,Waterfront Communities-The Island (77),"c(-79.40055725, 43.64788683)",injuries
+2020,Night,1,0,Greenwood-Coxwell (65),"c(-79.33130898, 43.68170912)",death
+2020,Evening,1,0,Etobicoke West Mall (13),"c(-79.57241116, 43.65116281)",death
+2020,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51703417, 43.75485496)",injuries
+2019,Evening,1,0,West Hill (136),"c(-79.18484133, 43.7648656)",death
+2020,Evening,1,0,Malvern (132),"c(-79.20309877, 43.80316244)",death
+2019,Night,2,1,Mount Dennis (115),"c(-79.5039677, 43.68889241)",both
+2019,Night,1,0,Waterfront Communities-The Island (77),"c(-79.39281928, 43.64732006)",death
+2020,Evening,0,1,Downsview-Roding-CFB (26),"c(-79.52018658, 43.72814661)",injuries
+2019,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2019,Afternoon,0,1,Don Valley Village (47),"c(-79.36486829, 43.7845285)",injuries
+2020,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",injuries
+2019,Evening,0,1,Scarborough Village (139),"c(-79.21732002, 43.74792022)",injuries
+2020,Evening,1,1,Black Creek (24),"c(-79.52249371, 43.76748998)",both
+2020,Evening,0,1,West Hill (136),"c(-79.19449308, 43.76442342)",injuries
+2019,Evening,0,1,Bedford Park-Nortown (39),"c(-79.40824199, 43.7531895)",injuries
+2020,Evening,0,1,Newtonbrook West (36),"c(-79.42633718, 43.79662303)",injuries
+2019,Night,0,3,South Parkdale (85),"c(-79.43723784, 43.64045086)",injuries
+2020,Evening,0,2,Glenfield-Jane Heights (25),"c(-79.50684467, 43.74032482)",injuries
+2019,Evening,0,1,Rexdale-Kipling (4),"c(-79.55594468, 43.71694966)",injuries
+2019,Morning,0,1,Malvern (132),"c(-79.23844993, 43.81039598)",injuries
+2019,Evening,0,1,Beechborough-Greenbrook (112),"c(-79.48017262, 43.69280689)",injuries
+2019,Evening,0,1,Bendale (127),"c(-79.25598279, 43.75607441)",injuries
+2019,Night,0,2,Kensington-Chinatown (78),"c(-79.40066945, 43.65476855)",injuries
+2019,Afternoon,0,1,Malvern (132),"c(-79.23844993, 43.81039598)",injuries
+2019,Night,0,1,South Riverdale (70),"c(-79.33358342, 43.66820801)",injuries
+2019,Night,0,1,Oakwood Village (107),"c(-79.44527396, 43.69676539)",injuries
+2019,Evening,0,2,Oakwood Village (107),"c(-79.44527396, 43.69676539)",injuries
+2019,Night,0,1,Eglinton East (138),"c(-79.24003832, 43.74238904)",injuries
+2020,Night,0,1,South Riverdale (70),"c(-79.34751991, 43.65649482)",injuries
+2020,Evening,1,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58812551, 43.74631642)",both
+2020,Evening,1,0,Black Creek (24),"c(-79.51872198, 43.76916389)",death
+2020,Evening,0,1,Dorset Park (126),"c(-79.27106943, 43.76792422)",injuries
+2020,Morning,1,0,Weston (113),"c(-79.50691103, 43.7045662)",death
+2020,Morning,1,2,Downsview-Roding-CFB (26),"c(-79.49073588, 43.73737227)",both
+2020,Afternoon,0,1,Lansing-Westgate (38),"c(-79.43081916, 43.75707455)",injuries
+2020,Evening,1,0,Englemount-Lawrence (32),"c(-79.43342311, 43.72748092)",death
+2020,Morning,0,1,West Hill (136),"c(-79.18986202, 43.77138456)",injuries
+2020,Evening,0,1,Yonge-Eglinton (100),"c(-79.39682108, 43.69933273)",injuries
+2020,Afternoon,1,0,Oakridge (121),"c(-79.2853427, 43.69063669)",death
+2020,Evening,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2020,Afternoon,1,3,Black Creek (24),"c(-79.51692512, 43.76197135)",both
+2020,Afternoon,0,1,Niagara (82),"c(-79.40767084, 43.64646816)",injuries
+2020,Evening,0,1,Rockcliffe-Smythe (111),"c(-79.48083141, 43.67148908)",injuries
+2020,Evening,0,1,L'Amoreaux (117),"c(-79.30807952, 43.80013896)",injuries
+2020,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58376752, 43.7468156)",injuries
+2020,Afternoon,0,1,Weston-Pellam Park (91),"c(-79.45488617, 43.66832208)",injuries
+2020,Night,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2020,Night,0,1,East End-Danforth (62),"c(-79.30155909, 43.68767501)",injuries
+2020,Afternoon,1,1,Yorkdale-Glen Park (31),"c(-79.45335758, 43.70790796)",both
+2021,Night,0,1,Downsview-Roding-CFB (26),"c(-79.49104019, 43.72461805)",injuries
+2021,Evening,1,0,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",death
+2021,Evening,0,1,Long Branch (19),"c(-79.5418279, 43.58734972)",injuries
+2021,Night,0,1,Henry Farm (53),"c(-79.32297554, 43.77524437)",injuries
+2021,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.59008355, 43.73745121)",injuries
+2021,Evening,1,0,Kennedy Park (124),"c(-79.2539213, 43.72482663)",death
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51685836, 43.75241579)",injuries
+2021,Evening,1,2,Regent Park (72),"c(-79.36093839, 43.66192019)",both
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50500677, 43.74012808)",injuries
+2021,Afternoon,0,1,Bathurst Manor (34),"c(-79.46105045, 43.76554598)",injuries
+2021,Morning,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.59382608, 43.74687796)",injuries
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.50964031, 43.73967319)",injuries
+2021,Evening,1,0,Weston (113),"c(-79.50530573, 43.7084158)",death
+2021,Afternoon,0,1,New Toronto (18),"c(-79.50886163, 43.60153841)",injuries
+2021,Night,0,1,Glenfield-Jane Heights (25),"c(-79.51160413, 43.74628736)",injuries
+2021,Morning,0,1,Long Branch (19),"c(-79.53814224, 43.59339702)",injuries
+2021,Afternoon,0,1,Islington-City Centre West (14),"c(-79.56318823, 43.65265106)",injuries
+2021,Afternoon,0,1,East End-Danforth (62),"c(-79.2852415, 43.6837737)",injuries
+2021,Afternoon,1,3,Willowridge-Martingrove-Richview (7),"c(-79.56839514, 43.67571392)",both
+2021,Afternoon,0,1,Wexford/Maryvale (119),"c(-79.30933717, 43.7550147)",injuries
+2021,Evening,0,1,Weston-Pellam Park (91),"c(-79.45797855, 43.66874022)",injuries
+2021,Night,0,1,South Parkdale (85),"c(-79.42881933, 43.63865271)",injuries
+2021,Evening,0,1,Dovercourt-Wallace Emerson-Junction (93),"c(-79.43811239, 43.66362216)",injuries
+2021,Evening,0,1,Mount Olive-Silverstone-Jamestown (2),"c(-79.58207638, 43.74326507)",injuries
+2021,Afternoon,0,1,Roncesvalles (86),"c(-79.43532226, 43.64420447)",injuries
+2021,Evening,0,3,Cabbagetown-South St.James Town (71),"c(-79.37373773, 43.66729501)",injuries
+2021,Night,0,1,Malvern (132),"c(-79.22696131, 43.80137951)",injuries
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51685349, 43.75181653)",injuries
+2021,Night,1,1,Woburn (137),"c(-79.21336981, 43.76112419)",both
+2021,Night,0,1,South Parkdale (85),"c(-79.4346862, 43.63746024)",injuries
+2021,Evening,2,0,Eglinton East (138),"c(-79.24452499, 43.74414068)",death
+2021,Evening,0,1,Oakridge (121),"c(-79.27823005, 43.69903669)",injuries
+2021,Night,0,2,Malvern (132),"c(-79.23844993, 43.81039598)",injuries
+2021,Night,1,0,Beechborough-Greenbrook (112),"c(-79.48017262, 43.69280689)",death
+2021,Evening,0,4,Elms-Old Rexdale (5),"c(-79.54949818, 43.72765066)",injuries
+2021,Night,1,0,Beechborough-Greenbrook (112),"c(-79.48383048, 43.69106967)",death
+2021,Evening,0,2,Flemingdon Park (44),"c(-79.33136581, 43.71836061)",injuries
+2021,Evening,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2021,Evening,0,1,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",injuries
+2021,Night,1,2,Flemingdon Park (44),"c(-79.32804455, 43.71561353)",both
+2021,Evening,1,0,Dorset Park (126),"c(-79.28320883, 43.77173238)",death
+2021,Evening,1,0,York University Heights (27),"c(-79.48872132, 43.75451293)",death
+2021,Evening,0,1,Milliken (130),"c(-79.2509771, 43.83345031)",injuries
+2021,Afternoon,0,1,Milliken (130),"c(-79.24854552, 43.81972183)",injuries
+2021,Evening,1,0,Rouge (131),"c(-79.18871749, 43.82514649)",death
+2021,Night,0,1,West Humber-Clairville (1),"c(-79.57133239, 43.71154887)",injuries
+2021,Night,0,1,Moss Park (73),"c(-79.3559923, 43.65548812)",injuries
+2021,Night,0,1,Thorncliffe Park (55),"c(-79.34134662, 43.70801788)",injuries
+2021,Evening,0,1,Brookhaven-Amesbury (30),"c(-79.47890372, 43.69870758)",injuries
+2021,Evening,0,2,Thorncliffe Park (55),"c(-79.34658826, 43.70321193)",injuries
+2021,Evening,0,1,West Hill (136),"c(-79.18484133, 43.7648656)",injuries
+2021,Evening,0,2,Kensington-Chinatown (78),"c(-79.39953486, 43.650584)",injuries
+2021,Evening,1,0,Malvern (132),"c(-79.20478945, 43.79744551)",death
+2021,Night,1,0,York University Heights (27),"c(-79.48755122, 43.74960771)",death
+2021,Night,0,1,Waterfront Communities-The Island (77),"c(-79.39025369, 43.64785592)",injuries
+2021,Evening,0,1,Don Valley Village (47),"c(-79.35803271, 43.79196201)",injuries
+2021,Night,0,1,Kingsview Village-The Westway (6),"c(-79.5413542, 43.6968112)",injuries
+2021,Night,1,1,York University Heights (27),"c(-79.48043215, 43.75532149)",both
+2021,Night,1,0,Glenfield-Jane Heights (25),"c(-79.51367361, 43.75418883)",death
+2021,Night,1,0,Keelesdale-Eglinton West (110),"c(-79.47387271, 43.69042154)",death
+2021,Afternoon,1,0,Pelmo Park-Humberlea (23),"c(-79.53601349, 43.71305284)",death
+2021,Night,0,1,West Humber-Clairville (1),"c(-79.57079919, 43.69159331)",injuries
+2021,Night,0,1,Bayview Village (52),"c(-79.36423724, 43.76942135)",injuries
+2021,Morning,0,1,Oakwood Village (107),"c(-79.44021599, 43.69784622)",injuries
+2021,Evening,0,1,North St.James Town (74),"c(-79.37036718, 43.67025828)",injuries
+2021,Evening,1,0,Clairlea-Birchmount (120),"c(-79.29747446, 43.72565086)",death
+2021,Night,1,0,Malvern (132),"c(-79.22413428, 43.80395767)",death
+2021,Night,1,0,Dorset Park (126),"c(-79.28103716, 43.76580146)",death
+2021,Night,0,1,Trinity-Bellwoods (81),"c(-79.42274326, 43.64938527)",injuries
+2021,Evening,0,1,Cliffcrest (123),"c(-79.2278877, 43.73997977)",injuries
+2021,Night,0,2,Eglinton East (138),"c(-79.24003832, 43.74238904)",injuries
+2021,Evening,0,1,Woburn (137),"c(-79.21100949, 43.76286448)",injuries
+2021,Evening,0,2,Oakridge (121),"c(-79.27746916, 43.70367019)",injuries
+2021,Evening,1,0,Woburn (137),"c(-79.20474217, 43.76396461)",death
+2021,Night,0,1,Niagara (82),"c(-79.4026656, 43.64392483)",injuries
+2021,Evening,0,1,Danforth East York (59),"c(-79.32547713, 43.69082011)",injuries
+2021,Night,0,1,Dorset Park (126),"c(-79.28551179, 43.76890038)",injuries
+2021,Night,0,2,Little Portugal (84),"c(-79.42281418, 43.64123734)",injuries
+2021,Night,1,0,Rouge (131),"c(-79.17579267, 43.80656148)",death
+2021,Evening,0,1,Roncesvalles (86),"c(-79.44916936, 43.65263227)",injuries
+2021,Evening,0,1,Woburn (137),"c(-79.23171553, 43.77643477)",injuries
+2021,Night,0,1,Bay Street Corridor (76),"c(-79.38088599, 43.65632883)",injuries
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51603747, 43.75073765)",injuries
+2021,Night,0,1,Black Creek (24),"c(-79.51472666, 43.76721178)",injuries
+2021,Night,1,0,Agincourt South-Malvern West (128),"c(-79.25977154, 43.79206024)",death
+2021,Afternoon,0,1,Dufferin Grove (83),"c(-79.44773276, 43.65730226)",injuries
+2021,Night,0,1,Bendale (127),"c(-79.24671822, 43.75526214)",injuries
+2021,Afternoon,0,1,Bendale (127),"c(-79.25219886, 43.77457294)",injuries
+2021,Evening,1,0,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",death
+2021,Evening,1,0,Englemount-Lawrence (32),"c(-79.44386942, 43.71948624)",death
+2021,Night,0,1,Kensington-Chinatown (78),"c(-79.39812372, 43.65026118)",injuries
+2021,Afternoon,0,4,York University Heights (27),"c(-79.48823726, 43.76408749)",injuries
+2021,Evening,0,1,Kingsview Village-The Westway (6),"c(-79.5495297, 43.70328414)",injuries
+2021,Night,0,1,Niagara (82),"c(-79.42213177, 43.63268075)",injuries
+2021,Night,0,1,Bendale (127),"c(-79.25476535, 43.75219227)",injuries
+2021,Night,0,1,Leaside-Bennington (56),"c(-79.37169762, 43.69675091)",injuries
+2021,Afternoon,0,1,Mimico (includes Humber Bay Shores) (17),"c(-79.49288386, 43.60307309)",injuries
+2021,Evening,0,2,Greenwood-Coxwell (65),"c(-79.32503489, 43.67157976)",injuries
+2021,Night,1,0,Kingsview Village-The Westway (6),"c(-79.54412712, 43.69762452)",death
+2021,Night,0,1,Kingsview Village-The Westway (6),"c(-79.54863788, 43.70132673)",injuries
+2021,Evening,0,1,Englemount-Lawrence (32),"c(-79.43293341, 43.71849328)",injuries
+2021,Evening,0,1,Humbermede (22),"c(-79.55736169, 43.74812916)",injuries
+2021,Evening,0,1,Glenfield-Jane Heights (25),"c(-79.51040848, 43.74922746)",injuries
+2021,Evening,0,1,Bay Street Corridor (76),"c(-79.38132952, 43.65741605)",injuries
+2021,Night,0,1,Church-Yonge Corridor (75),"c(-79.37691204, 43.65291764)",injuries
+2021,Afternoon,0,1,York University Heights (27),"c(-79.48942884, 43.75182628)",injuries
+2021,Evening,0,2,Yorkdale-Glen Park (31),"c(-79.45030308, 43.7197243)",injuries
+2021,Evening,0,1,Rustic (28),"c(-79.5047176, 43.71574209)",injuries
+2021,Night,0,1,Islington-City Centre West (14),"c(-79.54624934, 43.61642017)",injuries
+2021,Night,2,2,Kensington-Chinatown (78),"c(-79.39927621, 43.65610155)",both
+2021,Night,0,1,Bedford Park-Nortown (39),"c(-79.4232157, 43.73867565)",injuries
+2021,Evening,1,2,Brookhaven-Amesbury (30),"c(-79.49081557, 43.69861307)",both
+2021,Night,0,1,York University Heights (27),"c(-79.47814679, 43.7596292)",injuries
+2021,Evening,0,1,South Riverdale (70),"c(-79.35058013, 43.64309128)",injuries
+2021,Night,0,2,L'Amoreaux (117),"c(-79.3316921, 43.7985166)",injuries
+2021,Evening,0,3,Agincourt South-Malvern West (128),"c(-79.25879661, 43.78961887)",injuries
+2021,Morning,0,1,Broadview North (57),"c(-79.35327094, 43.68855225)",injuries
+2021,Evening,0,2,Downsview-Roding-CFB (26),"c(-79.5137606, 43.71983148)",injuries
+2021,Night,0,1,Flemingdon Park (44),"c(-79.33414521, 43.71492666)",injuries
+2021,Night,0,1,Niagara (82),"c(-79.4026656, 43.64392483)",injuries
+2021,Morning,1,0,Long Branch (19),"c(-79.53936354, 43.59310005)",death
+2021,Evening,0,1,Moss Park (73),"c(-79.37099208, 43.65829436)",injuries
+2021,Night,1,1,Waterfront Communities-The Island (77),"c(-79.38888568, 43.64881159)",both
+2021,Evening,0,1,O'Connor-Parkview (54),"c(-79.30153584, 43.71530584)",injuries
+2021,Afternoon,1,0,York University Heights (27),"c(-79.48101667, 43.78470041)",death
+2021,Night,0,1,Downsview-Roding-CFB (26),"c(-79.48024537, 43.75432183)",injuries
+2021,Evening,0,1,South Parkdale (85),"c(-79.43537437, 43.64084189)",injuries
+2021,Evening,0,1,Black Creek (24),"c(-79.51872198, 43.76916389)",injuries
+2021,Evening,1,0,Glenfield-Jane Heights (25),"c(-79.51277036, 43.75147357)",death
+2021,Night,0,1,Downsview-Roding-CFB (26),"c(-79.49104019, 43.72461805)",injuries
+2021,Night,0,1,York University Heights (27),"c(-79.4940178, 43.77525538)",injuries
+2021,Afternoon,0,1,Rockcliffe-Smythe (111),"c(-79.48286823, 43.67880336)",injuries
+2021,Afternoon,0,1,Forest Hill North (102),"c(-79.42236728, 43.70289495)",injuries

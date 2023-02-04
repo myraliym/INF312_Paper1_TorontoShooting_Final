@@ -1,0 +1,457 @@
+---
+title: "A visualization of Toronto shooting data"
+subtitle: "A look into how neighborhood and time affected shootings in Toronto from 2012 to 2021"
+author: "Myra Li"
+date: "`r Sys.time()`"
+date-format: "D MMMM YYYY"
+abstract: "For Toronto residents, shootings are always one of the biggest concerns. After analysing data from 2012 to 2021, it is easy to see that the majority of shootings occur at evenings and nights. At the same time, neighbourhoods have a greater relationship with the probability of a shooting occurring. This paper attempts to visualise these findings."
+thanks: "Code and data are available at: https://github.com/myraliym/INF312_Paper1_TorontoShooting_Final.git"
+bibliography: references.bib
+format: pdf
+---
+
+```{r}
+#| include: false
+#### Set up workplace ####
+#install.packages("opendatatoronto")
+#install.packages("lubridate")
+#install.packages("knitr")
+#install.packages("gitcreds")
+
+library(knitr)
+library(janitor)
+library(lubridate)
+library(opendatatoronto)
+library(tidyverse)
+library(vctrs)
+library(dplyr, warn.conflicts = FALSE)
+
+# Read data#
+cleaned_toronto_shootings_data <- 
+  read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", 
+           show_col_types = FALSE)
+```
+
+
+# Introduction
+The recent spate of violence in Toronto TTC has led to more concerns about one's safety (https://toronto.ctvnews.ca/timeline-of-violent-incidents-on-the-ttc-1.6252945). Although most of the time, I walk to school. But with the frequency of violence, I have started to worry more about the safety of my environment. When walking in downtown Toronto, it is almost impossible for you not to encounter strange people. Sometimes they will suddenly yell and scream or look at you with a strange look. Worse still, they may carry out some hurtful incidents, such as violence, and shootings.
+
+
+In this analysis, I have focused on the data from the shooting incidents in Toronto. This is described in more detail in the data section. In the analysis, I focused on the two factors of time and neighbourhood. Overall, we found a relationship between the number of shootings in Toronto and neighbourhoods between 2012 and 2021. Some neighbourhoods, such as Glenfield-Jane Heights (25), have a significantly higher number of shootings. Also, we find that shootings are usually more frequent at evenings and nights. In this paper, I will attempt to visualise these findings in order to present my findings visually. I will then discuss the implications of the findings, as well as some of the limitations of the findings.
+
+# Data
+
+## Data collection
+All data used in this paper was retrieved from the City of Toronto Open Data Portal and can be retrieve from https://open.toronto.ca/dataset/shootings-firearm-discharges/. By using the R package opendatatoronto [@citeODT], we downloaded the data in the R-script called download_and_clean. The data is uploaded and funded by the City of Toronto and it is refreshed annually. It contains all shooting-related occurrences reported to the Toronto Police Service. And it includes 14 columns, such as “_id”,“Event_Unique_ID”“Occurrence_Date”, “Occurrence_year”, “Month”, “Day_of_week”, “Occurrence_Hour”, “Time_Range”, “Division”, “Death”, “Injuries”, “Hood_ID”, “Neighbourhood” and “geometry”.
+
+
+Since the last refreshed date is Oct 11, 2022, we decided to not to include 2022 as our data. Instead, we used 10 whole year data from 2012 to 2021 as our data.
+
+## Variables of interest
+In cleaned_toronto_shooting, we picked up 6 columns we need from the dataset, and we renamed some columns to simplify. We renamed Occurrence_year to year and Time_Range to time. we only kept the variables of interest, they are "year", "time", "death", "injuries", "neighbourhood", "geometry". In addition to this, we have created a new variable, called "injury_level". This variable is used to indicate whether the event is an injury, death or both.
+
+## Data processing
+We use some essential libraries to help us process the data. For example, opendatatoronto [@citeODT], which is used to load data into R [@citeR]. Lubridate [@citelubridate] is used to help process date data. Also, we used knitr [@citeknitr],janitor [@citejanitor],tidyverse [@citetidyverse] and dplyr [@citedplyr] to process other data and generate pdf. After the data was loaded, we saved it as a csv file named toronto_shootings.csv.
+Since we targeted our analysis to the decade from 2012 to 2021, we cleaned up the rest of the data. By filtering the years, we ended up cleaning up the data to keep only what happened during this decade. Considering the false alarms, we removed the cases of both injuries and death show NA from consideration in our analysis. Apart from that, we have replaced all the NA with zeros. Finally, we saved these cleaned data as a csv file called cleaned_toronto_shooting.csv.
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| label: tbl-cleaned_data
+#| tbl-cap: "First ten rows of a dataset of cleaned shooting data"
+
+# A glimpse of cleaned data
+cleaned_toronto_shootings_data %>% 
+  slice(1:10) %>% 
+  kable(
+    col.names = c("year", "time", "death", "injuries", "neighbourhood", "geometry", "injury_level"),
+    digits = 1,
+    booktabs = TRUE,
+    linesep = "" 
+    )
+```
+
+
+Now, let's have a quick look at some of the cleaned data we will be working with. They are illustrated above in table (@tbl-cleaned_data).
+
+
+# Visualizing the Data and The Implications
+
+## Visual 1 Toronto shooting data by year
+What interests me in this analysis is the number of Toronto SHOTS per year. In this section, we show the number of reported shooting injuries in Toronto over a ten-year period from 2012 to 2021, which includes the number of all injuries and deaths. In the following table (@tbl-yearly_shootings), we can see the number of shooting injuries per year, as well as the specific number of people at different injury levels (injuries/death).
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| label: tbl-yearly_shootings
+#| tbl-cap: "Number of shootings in Toronto from 2012 to 2021"
+
+# Read data
+by_year <- 
+  read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", 
+           show_col_types = FALSE)
+
+# Sort by year
+by_year |>
+  group_by(year)|>
+  # Count the number of injuries, death, and shootings
+  summarize(shootings = sum(injuries, death, na.rm = TRUE), 
+            injuries_number = sum(injuries,na.rm = TRUE),
+            death_number = sum(death,na.rm = TRUE),
+            ) |>
+  # Generate table
+  kable(
+     col.names = c(
+      "Year",
+      "Total shootings",
+      "Injuries",
+      "Death"
+    ))
+
+```
+
+
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shooting in Toronto from 2012 to 2021"
+#| label: fig-10yr_shooting
+# Read data
+by_year <- 
+  read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", 
+           show_col_types = FALSE)
+
+# Annual shootings occurred in Toronto
+by_year |>
+  group_by(year)|>
+  # Count shootings number
+  summarize(shooting = sum(death,injuries, na.rm = TRUE)) |> 
+  # Generate graph
+  ggplot(aes(x = year, y = shooting)) +
+  geom_bar( stat='identity') +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "year",
+    y = "number of shootings",
+ ) + 
+  scale_x_continuous(breaks = seq(2012, 2021, by = 1))
+```
+Also, we have generated graphs of the data. In the chart (@fig-10yr_shooting), we can see that between 2012 and 2021, the most shootings occurred in 2019. the number of shootings in 2019 was more than twice the number in 2014. Since 2019, the number of Toronto shootings are again on a gradual downward trend.
+
+
+## Implication 1 Toronto shooting data by year
+I think we need to take this downward trend with a watching skepticism. the decline in 2020 and 2021 may be largely due to the quarantine policy introduced after COVID-19, so people have less opportunity to go out. Since, the number of shootings per year is influenced by many factors, we do not intend to pick a specific year for analysis. Next, we will look more closely at the time when shootings occurred.
+
+
+## Visual 2 Shootings data by time
+Moving on, lets see what implications we can draw when we filled the date by time.
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Toronto at different times from 2019 to 2021"
+#| label: fig-shootings_time
+
+cleaned_toronto_shootings_data |>
+  # to see how time range affects the occurrence
+  ggplot(mapping = aes(x = year, fill = time)) +
+  geom_bar()+
+  labs(
+    x = "year",
+    y = "number of shootings",)+ 
+  theme_minimal()+
+  scale_x_continuous(breaks = seq(2012, 2021, by = 1))
+
+
+```
+In the chart (@fig-shootings_time), we can see that between 2012 and 2021, shootings occur mostly at evenings and nights, with very few occurring at mornings, and the highest number of shootings occurring at evenings.
+
+## Implication 2 Shootings data by time
+Although shootings are usually irregular and unpredictable, I think from this result we can protect ourselves by avoiding going out at night as much as possible, thus reducing the probability of encountering shootings. Next, we will analyze different neighbourhoods in more details.
+
+## Visual 3 Shootings data by neighbourhood
+We have used neighbourhood to classify the data to find out whether neighbourhood is related to shooting. Since the data covers 140 neighbourhoods, we decided to focus our analysis on the top 10 most frequent neighbourhoods where shootings occur. These neighbourhoods are Glenfield-Jane Heights (25), Mount Olive- Silverstone-Jamestown (2), Black Creek (24), Waterfront Communities-The Island (77), Yorkdale-Glen Park (31), Downsview-Roding-CFB (26), West Humber-Clairville (1), West Hill (136), Malvern (132) and York University Heights (27). More detailed values are in the table (@tbl-neighbourhood_shooting) below.
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| tbl-cap: "TOP10 neighbourhood where shooting occurs most often from 2019 to 2021"
+#| label: tbl-neighbourhood_shooting
+
+by_neighbourhood <- 
+  read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", 
+           show_col_types = FALSE)
+
+# to see how neighbourhood affects the occurrence
+by_neighbourhood |>
+  #count by neighbourhood and in descending order
+  group_by(neighbourhood)|>
+  summarize(shootings = sum(injuries, death, na.rm = TRUE), 
+            injuries_number = sum(injuries,na.rm = TRUE), 
+            death_number = sum(death,na.rm = TRUE)) |>
+  arrange(desc(shootings))|>
+  #select the top 10
+  slice(1:10) %>% 
+  kable(col.names = c(
+      "Neighbourhood",
+      "Total shootings",
+      "Injuries",
+      "Death"
+    ))
+
+```
+
+We then decided to conduct a closer analysis of these ten communities where shootings most often occur. We analyzed when shootings occurred in each neighborhood and presented them in the graphs (@fig-Glenfield_Jane_Heights, @fig-Mount_Olive_Silverstone_Jamestown, @fig-Black_Creek, @fig-Waterfront_Communities_The_Island, @fig-Yorkdale_Glen_Park, @fig-Downsview_Roding_CFB, @fig-West_Humber_Clairville, @fig-West_Hill, @fig-Malvern, @fig-York_University_Heights) below.
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Glenfield-Jane Heights (25) at different times from 2012 to 2021"
+#| label: fig-Glenfield_Jane_Heights
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Glenfield-Jane Heights (25)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+
+```
+
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Mount Olive-Silverstone-Jamestown (2)	 at different times from 2012 to 2021"
+#| label: fig-Mount_Olive_Silverstone_Jamestown
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Mount Olive-Silverstone-Jamestown (2)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Black Creek (24) at different times from 2012 to 2021"
+#| label: fig-Black_Creek
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Black Creek (24)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Waterfront Communities-The Island (77) at different times from 2012 to 2021"
+#| label: fig-Waterfront_Communities_The_Island	
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Waterfront Communities-The Island (77)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Yorkdale-Glen Park (31) at different times from 2012 to 2021"
+#| label: fig-Yorkdale_Glen_Park
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Yorkdale-Glen Park (31)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Downsview-Roding-CFB (26) at different times from 2012 to 2021"
+#| label: fig-Downsview_Roding_CFB
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Downsview-Roding-CFB (26)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in West Humber-Clairville (1) at different times from 2012 to 2021"
+#| label: fig-West_Humber_Clairville
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "West Humber-Clairville (1)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in West Hill (136) at different times from 2012 to 2021"
+#| label: fig-West_Hill
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "West Hill (136)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in Malvern (132) at different times from 2012 to 2021"
+#| label: fig-Malvern
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "Malvern (132)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig-cap: "Shootings in York University Heights (27) at different times from 2012 to 2021"
+#| label: fig-York_University_Heights
+
+by_neighbourhood  <- read_csv("/Users/myrali/Desktop/toronto_shooting/toronto_shooting_paper1/inputs/cleaned_toronto_shooting.csv", show_col_types = FALSE)
+
+by_neighbourhood  |>
+  # select specific neighbourhood
+  filter(neighbourhood == "York University Heights (27)")|>
+  ggplot(aes(x = time,
+             fill = year)) +
+  geom_bar( ) +
+  theme_minimal() + # Make the theme neater
+  labs(
+    x = "time range",
+    y = "number of shootings")
+
+```
+
+We can find that except for Waterfront Communities-The Island (77), Yorkdale-Glen Park (31) and West Humber-Clairville (1), the highest number of people injured time range is evening. In York University Heights (27), the number of people who were injured during the evening and night hours was equal. We also confirm that the number of people shot and injured during the morning hours is the lowest.
+
+## Implications 3 Shootings data by neighbourhood
+We believe that there is some connection between the occurrence of shootings and regions. For example, Glenfield-Jane Heights (25) has several times as many occurrences as other communities. 
+
+
+According to the report (https://www.toronto.ca/ext/sdfa/Neighbourhood%20Profiles/pdf/2016/pdf1/cpa25.pdf), we found that the educational attainment and income levels in this community are much lower than the Toronto average. Also, we found that among these 10 neighbourhoods, Glenfield-Jane Heights (25), Downsview-Roding-CFB (26),and York University Heights (27) are three adjacent neighbourhoods. Although the shootings are unpredictable events, we recommend that you pay more attention to your safety when visiting these neighborhoods.
+
+# Limitations
+In this analysis, we remove the data when both injuries and deaths appear in the data as NA. This could be a false alarm, or it could be that a shooting occurred but no one was killed or injured. Since our analysis focuses more on shootings that affect people's safety, we cleaned up all such data.
+Using neighborhood and time alone to analyze shootings is not sufficient. As I have said repeatedly, shootings are random, so there are many factors that can influence them. It's hard to tell when and where criminals will want to shoot. So we need more data to help us do as comprehensive an analysis as possible.
+
+
+# Next Step
+As a next step, we can either obtain more data on factors that may affect the occurrence of shootings or conduct a more detailed analysis of existing communities so that our conclusions are not so vague. First, we can try to understand the education level, income level, etc. of the residents in different neighborhoods in Toronto. This would help us analyze in more detail the relationship between neighborhoods and the occurrence of shootings. Next, we can analyze the location and number of police stations in these neighborhoods to see if the police were able to arrive in time to solve the problem when the shooting occurred.
+
+\newpage
+
+
+
+# Reference
